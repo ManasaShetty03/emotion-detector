@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Emotion & Severity Detector</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background: #0d1b2a;
+            color: #f0f0f0;
+            padding: 30px;
+            font-family: 'Segoe UI', sans-serif;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: #1b263b;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 0 15px rgba(0, 0, 235, 0.2);
+        }
+
+        h2, h5, h6, label {
+            color: #00d4ff;
+        }
+
+        textarea {
+            background-color: #3c5a7a;
+            color: #ffffff;
+            border: 1px solid #00b4d8;
+        }
+
+        .form-control:focus {
+            border-color: #00d4ff;
+            box-shadow: 0 0 5px rgba(0, 212, 255, 0.5);
+        }
+
+        .btn-primary {
+            background-color: #00b4d8;
+            border-color: #00b4d8;
+        }
+
+        .btn-primary:hover {
+            background-color: #0096c7;
+            border-color: #0096c7;
+        }
+
+        .alert-danger {
+            background-color: #782c2c;
+            border-color: #ff6b6b;
+            color: #fff;
+        }
+
+        .recommendation-box {
+            background-color: #2c3e50;
+            border-left: 4px solid #00b4d8;
+            padding: 15px;
+            margin-top: 15px;
+            border-radius: 8px;
+            color: #f0f0f0;
+        }
+
+        ul {
+            padding-left: 20px;
+        }
+
+        li {
+            margin-bottom: 8px;
+        }
+
+        .text-primary {
+            color: #00d4ff !important;
+        }
+
+        .text-danger {
+            color: #ff7b72 !important;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h2 class="mb-4 text-center">Emotion & Severity Detection</h2>
+
+    <form method="POST">
+        <div class="mb-3">
+            <label for="user_text" class="form-label">Enter a sentence:</label>
+            <textarea class="form-control" name="user_text" id="user_text" rows="3" required>{{ request.form.user_text or '' }}</textarea>
+        </div>
+        <button type="submit" class="btn btn-primary">Analyze</button>
+    </form>
+
+    {% if error %}
+        <div class="alert alert-danger mt-3">{{ error }}</div>
+    {% endif %}
+
+    {% if prediction %}
+        <div class="mt-4">
+            <h5>Emotion: <span class="text-primary">{{ prediction }}</span></h5>
+            {% if severity %}
+                <h6>Severity: <span class="text-danger">{{ severity }}</span></h6>
+            {% endif %}
+        </div>
+
+        {% if recommendation %}
+            <div class="recommendation-box">
+                <h6>Recommendations:</h6>
+                <ul>
+                    {% for rec in recommendation %}
+                        <li>{{ rec }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+        {% endif %}
+    {% endif %}
+</div>
+</body>
+</html>

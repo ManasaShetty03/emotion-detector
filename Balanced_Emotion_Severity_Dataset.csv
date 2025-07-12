@@ -1,0 +1,302 @@
+Text,Emotion,Severity,Category
+my whole body shakes before big decisions.,Anxiety,High,Negative
+i feel like i'm just existing.,Depression,Low,Negative
+i hesitate to walk alone at night.,Fear,Low,Negative
+i wish i could disappear.,Depression,High,Negative
+i feel like i'm slowly disappearing from life.,Depression,Moderate,Negative
+i avoid social events due to nervousness.,Anxiety,Moderate,Negative
+i feel like i'm slowly disappearing from life.,Depression,Moderate,Negative
+i experience physical tension from worry.,Anxiety,Moderate,Negative
+it is becoming harder to pretend i am okay.,Depression,Moderate,Negative
+i'm overwhelmed by complete hopelessness.,Depression,High,Negative
+i hurt myself when rage overtakes me.,Anger,High,Negative
+i missed someone a lot today.,Sad,Moderate,Negative
+i get mildly frustrated with slow internet.,Anger,Low,Negative
+i feel uneasy in crowded spaces.,Fear,Low,Negative
+i'm overwhelmed by sadness i can't shake.,Sad,High,Negative
+i had a rough conversation today.,Sad,Moderate,Negative
+i feel somewhat blue.,Sad,Low,Negative
+i double-check things more than i should.,Anxiety,Low,Negative
+i wake up wishing i hadn't.,Depression,High,Negative
+i feel like i'm losing control completely.,Anxiety,High,Negative
+i feel a bit off today.,Sad,Low,Negative
+my patience runs thin with repeated mistakes.,Anger,Moderate,Negative
+small mistakes make me a little angry.,Anger,Low,Negative
+i feel detached from reality due to anxiety.,Anxiety,High,Negative
+nothing feels right anymore.,Sad,High,Negative
+i feel like i'm in a bottomless pit.,Depression,High,Negative
+i wake up from nightmares drenched in sweat.,Fear,High,Negative
+strangers staring makes me anxious.,Fear,Moderate,Negative
+i feel slightly disappointed.,Sad,Low,Negative
+i keep worrying about my assignments.,Anxiety,Moderate,Negative
+i wake up wishing i hadn't.,Depression,High,Negative
+i get frightened when people raise voices.,Fear,Moderate,Negative
+everything feels like it's falling apart.,Sad,High,Negative
+my anger builds when people are inconsiderate.,Anger,Moderate,Negative
+i'm haunted by past traumatic experiences.,Fear,High,Negative
+i fear disappointing others.,Fear,Moderate,Negative
+i'm slightly discouraged.,Sad,Low,Negative
+i feel like i'm losing control completely.,Anxiety,High,Negative
+i feel empty inside.,Sad,Moderate,Negative
+strangers staring makes me anxious.,Fear,Moderate,Negative
+i feel like i'm in a bottomless pit.,Depression,High,Negative
+i feel emotionally numb.,Depression,Low,Negative
+deadlines make my heart race frequently.,Anxiety,Moderate,Negative
+tears won't stop today.,Sad,High,Negative
+i feel like a burden.,Sad,High,Negative
+i sometimes overthink small things.,Anxiety,Low,Negative
+traffic delays annoy me slightly.,Anger,Low,Negative
+i wake up feeling stressed without reason.,Anxiety,Moderate,Negative
+i no longer enjoy things i used to love.,Depression,Low,Negative
+i feel completely broken inside.,Depression,High,Negative
+i get mildly frustrated with slow internet.,Anger,Low,Negative
+my hands tremble when i sense danger.,Fear,Moderate,Negative
+i feel slightly deflated.,Sad,Low,Negative
+i experience physical tension from worry.,Anxiety,Moderate,Negative
+disorganization makes me quite angry.,Anger,Moderate,Negative
+i feel slight tension before exams.,Anxiety,Low,Negative
+i feel tense in social situations.,Anxiety,Low,Negative
+i'm feeling mildly upset.,Sad,Low,Negative
+i'm slightly uneasy in social settings.,Anxiety,Low,Negative
+my hands get sweaty talking to strangers.,Anxiety,Moderate,Negative
+i worry about small details.,Anxiety,Low,Negative
+i feel somewhat downcast.,Sad,Low,Negative
+i'm a bit emotional today.,Sad,Low,Negative
+things aren't going as planned.,Sad,Low,Negative
+i feel forgotten and overlooked.,Sad,Moderate,Negative
+i'm terrified of being left alone forever.,Fear,High,Negative
+i feel like i'm fading into the background.,Depression,Low,Negative
+i often fear losing control in situations.,Fear,Moderate,Negative
+getting out of bed feels like a task.,Depression,Low,Negative
+i'm feeling somewhat melancholy.,Sad,Low,Negative
+i feel heated when my time is wasted.,Anger,Moderate,Negative
+i find it hard to concentrate when worried.,Anxiety,Moderate,Negative
+i feel like i'm suffocating from anxiety.,Anxiety,High,Negative
+i feel heartbroken.,Sad,Moderate,Negative
+i've been isolating myself more than usual.,Depression,Low,Negative
+i get nervous watching horror movies.,Fear,Low,Negative
+i hesitate to make decisions due to fear.,Fear,Moderate,Negative
+making phone calls stresses me out slightly.,Anxiety,Low,Negative
+things aren't going as planned.,Sad,Low,Negative
+poor service makes me a bit angry.,Anger,Low,Negative
+i worry about small details.,Anxiety,Low,Negative
+my anxiety makes me feel paralyzed in public.,Anxiety,High,Negative
+i feel slightly disappointed.,Sad,Low,Negative
+i feel nervous about job interviews.,Fear,Low,Negative
+i'm struggling with heavy emotions.,Sad,Moderate,Negative
+i feel like i'm in constant danger.,Fear,High,Negative
+i feel frustrated when ignored.,Anger,Moderate,Negative
+i feel uncomfortable during casual conversations.,Anxiety,Low,Negative
+i find it hard to concentrate when worried.,Anxiety,Moderate,Negative
+i feel breathless and dizzy during panic attacks.,Anxiety,High,Negative
+i feel heated when my time is wasted.,Anger,Moderate,Negative
+disrespectful comments make me angry.,Anger,Moderate,Negative
+i can't control my rage anymore.,Anger,High,Negative
+i break down after intense outbursts.,Anger,High,Negative
+i'm paralyzed by overwhelming fear.,Fear,High,Negative
+i feel breathless during stressful moments.,Anxiety,Moderate,Negative
+uncertainty causes me noticeable distress.,Anxiety,Moderate,Negative
+i feel angry when treated unfairly.,Anger,Moderate,Negative
+i feel forgotten and overlooked.,Sad,Moderate,Negative
+i avoid conversations because i feel empty inside.,Depression,Low,Negative
+the temperature is 22 degrees.,Neutral,,Neutral
+the printer needs paper.,Neutral,,Neutral
+the cat is sleeping.,Neutral,,Neutral
+the package was delivered yesterday.,Neutral,,Neutral
+the coffee is hot.,Neutral,,Neutral
+the conference call lasted an hour.,Neutral,,Neutral
+the cat is sleeping.,Neutral,,Neutral
+the temperature is 22 degrees.,Neutral,,Neutral
+the phone is charging.,Neutral,,Neutral
+what are you doing?,Neutral,,Neutral
+the conference call lasted an hour.,Neutral,,Neutral
+they serve lunch until 3 pm.,Neutral,,Neutral
+the meeting is at 2 pm.,Neutral,,Neutral
+the store closes at 9 pm.,Neutral,,Neutral
+the printer needs paper.,Neutral,,Neutral
+he drives to work daily.,Neutral,,Neutral
+the store closes at 9 pm.,Neutral,,Neutral
+she works in the marketing department.,Neutral,,Neutral
+she is reading a book.,Neutral,,Neutral
+he drives to work daily.,Neutral,,Neutral
+the weather is pleasant today.,Neutral,,Neutral
+it's tuesday today.,Neutral,,Neutral
+i have three appointments today.,Neutral,,Neutral
+it's tuesday today.,Neutral,,Neutral
+the cat is sleeping.,Neutral,,Neutral
+he drives to work daily.,Neutral,,Neutral
+the printer needs paper.,Neutral,,Neutral
+the coffee is hot.,Neutral,,Neutral
+the meeting is at 2 pm.,Neutral,,Neutral
+i downloaded a new app.,Neutral,,Neutral
+the bus arrives every 15 minutes.,Neutral,,Neutral
+i need to buy groceries.,Neutral,,Neutral
+the phone is charging.,Neutral,,Neutral
+i need to buy groceries.,Neutral,,Neutral
+the weather is pleasant today.,Neutral,,Neutral
+the package was delivered yesterday.,Neutral,,Neutral
+the temperature is 22 degrees.,Neutral,,Neutral
+she works in the marketing department.,Neutral,,Neutral
+there are clouds in the sky.,Neutral,,Neutral
+the store closes at 9 pm.,Neutral,,Neutral
+i have three appointments today.,Neutral,,Neutral
+the coffee is hot.,Neutral,,Neutral
+they serve lunch until 3 pm.,Neutral,,Neutral
+the bus arrives every 15 minutes.,Neutral,,Neutral
+the printer needs paper.,Neutral,,Neutral
+i downloaded a new app.,Neutral,,Neutral
+there are clouds in the sky.,Neutral,,Neutral
+he drives to work daily.,Neutral,,Neutral
+the package was delivered yesterday.,Neutral,,Neutral
+the bus arrives every 15 minutes.,Neutral,,Neutral
+the meeting is at 2 pm.,Neutral,,Neutral
+they serve lunch until 3 pm.,Neutral,,Neutral
+i downloaded a new app.,Neutral,,Neutral
+the coffee is hot.,Neutral,,Neutral
+they serve lunch until 3 pm.,Neutral,,Neutral
+i have three appointments today.,Neutral,,Neutral
+she is reading a book.,Neutral,,Neutral
+the weather is pleasant today.,Neutral,,Neutral
+the package was delivered yesterday.,Neutral,,Neutral
+it's tuesday today.,Neutral,,Neutral
+the conference call lasted an hour.,Neutral,,Neutral
+there are clouds in the sky.,Neutral,,Neutral
+the phone is charging.,Neutral,,Neutral
+the coffee is hot.,Neutral,,Neutral
+the cat is sleeping.,Neutral,,Neutral
+she works in the marketing department.,Neutral,,Neutral
+it's tuesday today.,Neutral,,Neutral
+the temperature is 22 degrees.,Neutral,,Neutral
+the printer needs paper.,Neutral,,Neutral
+the phone is charging.,Neutral,,Neutral
+the conference call lasted an hour.,Neutral,,Neutral
+the weather is pleasant today.,Neutral,,Neutral
+she works in the marketing department.,Neutral,,Neutral
+the phone is charging.,Neutral,,Neutral
+i need to buy groceries.,Neutral,,Neutral
+she is reading a book.,Neutral,,Neutral
+the bus arrives every 15 minutes.,Neutral,,Neutral
+she is reading a book.,Neutral,,Neutral
+it's tuesday today.,Neutral,,Neutral
+the conference call lasted an hour.,Neutral,,Neutral
+i have three appointments today.,Neutral,,Neutral
+i need to buy groceries.,Neutral,,Neutral
+the temperature is 22 degrees.,Neutral,,Neutral
+he drives to work daily.,Neutral,,Neutral
+the cat is sleeping.,Neutral,,Neutral
+i downloaded a new app.,Neutral,,Neutral
+there are clouds in the sky.,Neutral,,Neutral
+she works in the marketing department.,Neutral,,Neutral
+the bus arrives every 15 minutes.,Neutral,,Neutral
+i have three appointments today.,Neutral,,Neutral
+the package was delivered yesterday.,Neutral,,Neutral
+i downloaded a new app.,Neutral,,Neutral
+i need to buy groceries.,Neutral,,Neutral
+the weather is pleasant today.,Neutral,,Neutral
+the meeting is at 2 pm.,Neutral,,Neutral
+they serve lunch until 3 pm.,Neutral,,Neutral
+she is reading a book.,Neutral,,Neutral
+the meeting is at 2 pm.,Neutral,,Neutral
+the store closes at 9 pm.,Neutral,,Neutral
+there are clouds in the sky.,Neutral,,Neutral
+this moment is perfect.,Happy,,Positive
+enjoyed peaceful moments with family.,Happy,,Positive
+i love being around them.,Happy,,Positive
+enjoyed peaceful moments with family.,Happy,,Positive
+"made progress on my goals, feels amazing.",Happy,,Positive
+i love being around them.,Happy,,Positive
+everything feels right today.,Happy,,Positive
+"made progress on my goals, feels amazing.",Happy,,Positive
+this is the happiest i've felt in a long time!,Happy,,Positive
+caught up with a friend over video call. made my day!,Happy,,Positive
+woke up feeling positive and ready for the day.,Happy,,Positive
+"made progress on my goals, feels amazing.",Happy,,Positive
+"it's been a peaceful, uneventful day.",Happy,,Positive
+listening to my favorite playlist and feeling good.,Happy,,Positive
+"got a compliment at work, it made my day.",Happy,,Positive
+i am so proud of myself.,Happy,,Positive
+"tried a new recipe, and it turned out okay!",Happy,,Positive
+a kind message from a friend made my day.,Happy,,Positive
+i did it! i actually did it!,Happy,,Positive
+i can't stop smiling!,Happy,,Positive
+enjoyed a quiet cup of coffee this morning.,Happy,,Positive
+i felt truly connected with people today.,Happy,,Positive
+i got the job! i am over the moon!,Happy,,Positive
+"the sun is out, and it feels nice to relax.",Happy,,Positive
+i love being around them.,Happy,,Positive
+"made progress on my goals, feels amazing.",Happy,,Positive
+had a nice conversation with a friend today.,Happy,,Positive
+"finally finished that project, what a relief!",Happy,,Positive
+this is the happiest i've felt in a long time!,Happy,,Positive
+"got a compliment at work, it made my day.",Happy,,Positive
+had a delicious meal and laughed a lot tonight.,Happy,,Positive
+"had a pretty decent day today, can't complain.",Happy,,Positive
+this is the happiest i've felt in a long time!,Happy,,Positive
+a kind message from a friend made my day.,Happy,,Positive
+"had a pretty decent day today, can't complain.",Happy,,Positive
+life feels beautiful right now.,Happy,,Positive
+caught up with a friend over video call. made my day!,Happy,,Positive
+i got the job! i am over the moon!,Happy,,Positive
+enjoyed peaceful moments with family.,Happy,,Positive
+life feels beautiful right now.,Happy,,Positive
+a kind message from a friend made my day.,Happy,,Positive
+i completed a big task and feel accomplished.,Happy,,Positive
+had a delicious meal and laughed a lot tonight.,Happy,,Positive
+this moment is perfect.,Happy,,Positive
+enjoyed a quiet cup of coffee this morning.,Happy,,Positive
+i can't stop smiling!,Happy,,Positive
+today was a good day.,Happy,,Positive
+"it's been a peaceful, uneventful day.",Happy,,Positive
+"had a pretty decent day today, can't complain.",Happy,,Positive
+"got a compliment at work, it made my day.",Happy,,Positive
+listening to my favorite playlist and feeling good.,Happy,,Positive
+had a nice conversation with a friend today.,Happy,,Positive
+"i laughed so much today, it felt amazing.",Happy,,Positive
+i felt appreciated for the little things i did.,Happy,,Positive
+had a delicious meal and laughed a lot tonight.,Happy,,Positive
+this moment is perfect.,Happy,,Positive
+i can't stop smiling!,Happy,,Positive
+"tried a new recipe, and it turned out okay!",Happy,,Positive
+listening to my favorite playlist and feeling good.,Happy,,Positive
+"it's been a peaceful, uneventful day.",Happy,,Positive
+everything feels right today.,Happy,,Positive
+"got a compliment at work, it made my day.",Happy,,Positive
+"made progress on my goals, feels amazing.",Happy,,Positive
+got good feedback on something i worked hard on.,Happy,,Positive
+got good feedback on something i worked hard on.,Happy,,Positive
+this is the happiest i've felt in a long time!,Happy,,Positive
+listening to my favorite playlist and feeling good.,Happy,,Positive
+i am so proud of myself.,Happy,,Positive
+enjoyed a quiet cup of coffee this morning.,Happy,,Positive
+watched a feel-good movie. it lifted my spirits.,Happy,,Positive
+woke up feeling positive and ready for the day.,Happy,,Positive
+"finally finished that project, what a relief!",Happy,,Positive
+caught up with a friend over video call. made my day!,Happy,,Positive
+got good feedback on something i worked hard on.,Happy,,Positive
+today was a good day.,Happy,,Positive
+"tried a new recipe, and it turned out okay!",Happy,,Positive
+i love being around them.,Happy,,Positive
+today was a good day.,Happy,,Positive
+everything feels right today.,Happy,,Positive
+i felt truly connected with people today.,Happy,,Positive
+i love teaching.,Happy,,Positive
+i am so proud of myself.,Happy,,Positive
+today was a good day.,Happy,,Positive
+this moment is perfect.,Happy,,Positive
+i felt truly connected with people today.,Happy,,Positive
+"the sun is out, and it feels nice to relax.",Happy,,Positive
+"finally finished that project, what a relief!",Happy,,Positive
+enjoyed a quiet cup of coffee this morning.,Happy,,Positive
+i completed a big task and feel accomplished.,Happy,,Positive
+i got the job! i am over the moon!,Happy,,Positive
+"it's been a peaceful, uneventful day.",Happy,,Positive
+i completed a big task and feel accomplished.,Happy,,Positive
+"finally finished that project, what a relief!",Happy,,Positive
+woke up feeling positive and ready for the day.,Happy,,Positive
+"made progress on my goals, feels amazing.",Happy,,Positive
+"it's been a peaceful, uneventful day.",Happy,,Positive
+got good feedback on something i worked hard on.,Happy,,Positive
+"i laughed so much today, it felt amazing.",Happy,,Positive
+"made progress on my goals, feels amazing.",Happy,,Positive
+"i laughed so much today, it felt amazing.",Happy,,Positive
+I am feeling very angry,Anger,High,Negative
