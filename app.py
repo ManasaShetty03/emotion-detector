@@ -1,166 +1,170 @@
-import streamlit as st
-from sentence_transformers import SentenceTransformer
+from flask import Flask, request, render_template
 import joblib
 import re
-import time
-import speech_recognition as sr
+from sentence_transformers import SentenceTransformer
 
-# -------------------- 🎙️ Voice Recognition --------------------
-def recognize_speech_from_mic():
-    recognizer = sr.Recognizer()
-    with sr.Microphone() as source:
-        st.info("🎙️ Listening... please speak clearly.")
-        audio = recognizer.listen(source)
-    try:
-        text = recognizer.recognize_google(audio)
-        st.success(f"🗣️ You said: {text}")
-        return text
-    except sr.UnknownValueError:
-        st.error("Sorry, I couldn’t understand that.")
-        return None
-    except sr.RequestError:
-        st.error("Speech recognition service is unavailable.")
-        return None
+app = Flask(__name__)
 
-# -------------------- 💡 Suggestion Generator --------------------
-def get_suggestion(emotion: str):
-    emotion = emotion.lower().strip()
+# Load models and encoders
+bert_model = SentenceTransformer('all-mpnet-base-v2')
+svm_emotion = joblib.load("svm_emotion.pkl")
+le_emotion = joblib.load("label_encoder_emotion.pkl")
+svm_severity = joblib.load("svm_severity.pkl")
+le_severity = joblib.load("label_encoder_severity.pkl")
 
-    suggestions = {
-        "sad": [
-            "It’s okay to feel sad — allow yourself to rest and process your feelings.",
-            "Talk to someone you trust about what’s weighing on your mind.",
-            "Try writing or journaling your emotions to understand them better.",
-            "Take a short walk outside — sunlight and fresh air can lift your mood.",
-            "Listen to gentle or uplifting music to comfort yourself."
-        ],
-        "anger": [
-            "Pause and take slow, deep breaths before reacting.",
-            "Try channeling your energy into exercise or creativity.",
-            "Identify what triggered your anger — awareness helps calm it.",
-            "Take a short break to cool off before continuing a conversation.",
-            "Remind yourself that staying calm keeps your power."
-        ],
-        "fear": [
-            "Fear often exaggerates danger — remind yourself you are safe right now.",
-            "Ground yourself with the 5-4-3-2-1 method (see, touch, hear, smell, taste).",
-            "Focus on what you can control and release what you can’t.",
-            "Talk about your fears with someone you trust — it lightens the burden.",
-            "Breathe deeply and visualize a peaceful scene."
-        ],
-        "depression": [
-            "Reach out to someone you trust — you don’t have to face this alone.",
-            "Try small daily goals like eating on time or stepping outside.",
-            "Engage in activities you once enjoyed, even for a few minutes.",
-            "Maintain a routine with adequate sleep and self-care.",
-            "Be kind to yourself — progress is made one step at a time."
-        ],
-        "anxiety": [
-            "Take slow, deep breaths and focus on your heartbeat.",
-            "Reduce caffeine and limit social media during stressful times.",
-            "Write down your worries to separate thoughts from reality.",
-            "Try mindfulness — stay present with what’s around you.",
-            "Listen to soothing sounds or meditate to relax your mind."
-        ]
-    }
-
-    return suggestions.get(emotion, ["Stay positive and take care of yourself 💙."])
-
-# -------------------- 🧩 Load Models --------------------
-@st.cache_resource
-def load_models():
-    bert = SentenceTransformer('all-mpnet-base-v2')
-    svm_emotion = joblib.load("svm_emotion.pkl")
-    le_emotion = joblib.load("label_encoder_emotion.pkl")
-    svm_severity = joblib.load("svm_severity.pkl")
-    le_severity = joblib.load("label_encoder_severity.pkl")
-    return bert, svm_emotion, le_emotion, svm_severity, le_severity
-
-bert, svm_emotion, le_emotion, svm_severity, le_severity = load_models()
-
-# -------------------- 🧠 Helper Functions --------------------
+# Helpers
 def is_meaningful(text):
-    return len(text.strip()) >= 2 and re.search(r"[a-zA-Z]", text)
+    return len(text.strip()) >= 3 and re.search(r'[a-zA-Z]', text)
 
 def categorize_emotion(emotion):
     emotion = emotion.lower()
-    if emotion == "happy":
-        return "Positive"
-    elif emotion == "neutral":
-        return "Neutral"
-    return "Negative"
+    if emotion == 'happy':
+        return 'Positive'
+    elif emotion == 'neutral':
+        return 'Neutral'
+    return 'Negative'
 
-# -------------------- 💬 Streamlit Setup --------------------
-st.set_page_config(page_title="💬 Emotion Chatbot", page_icon="🧠", layout="centered")
+@app.route("/", methods=["GET", "POST"])
+def index():
+    prediction = None
+    severity = None
+    recommendation = None
+    error = None
 
-st.markdown("""
-    <h2 style='text-align:center; color:#6C63FF;'>🧠 Real-Time Emotion Chatbot</h2>
-    <p style='text-align:center;'>Chat or speak with me — I’ll understand your emotions, analyze severity, and give helpful suggestions 💬</p>
-""", unsafe_allow_html=True)
+    if request.method == "POST":
+        user_text = request.form["user_text"].strip()
 
-# -------------------- 💭 Initialize Chat History --------------------
-if "messages" not in st.session_state:
-    st.session_state.messages = [
-        {"role": "assistant", "content": "Hey there 👋 I'm here to listen. How are you feeling today?"}
-    ]
-
-# -------------------- 💭 Display Chat --------------------
-for msg in st.session_state.messages:
-    with st.chat_message(msg["role"]):
-        st.markdown(msg["content"])
-
-# -------------------- 🎤 Input Options (Text + Voice) --------------------
-col1, col2 = st.columns(2)
-
-with col1:
-    prompt = st.chat_input("Type your message here...")
-
-with col2:
-    if st.button("🎙️ Speak"):
-        spoken_text = recognize_speech_from_mic()
-        if spoken_text:
-            prompt = spoken_text
+        if not is_meaningful(user_text):
+            error = "Please enter a meaningful sentence."
         else:
-            prompt = None
+            # Predict Emotion
+            embedding = bert_model.encode([user_text])
+            emotion_pred = svm_emotion.predict(embedding)[0]
+            emotion = le_emotion.inverse_transform([emotion_pred])[0]
+            prediction = emotion
 
-# -------------------- 💬 Process Input --------------------
-if prompt:
-    st.session_state.messages.append({"role": "user", "content": prompt})
-    with st.chat_message("user"):
-        st.markdown(prompt)
+            category = categorize_emotion(emotion)
 
-    if not is_meaningful(prompt):
-        response = "Please enter a meaningful message 🫶"
-    else:
-        embedding = bert.encode([prompt])
+            if category == "Negative":
+                # Predict Severity
+                sev_pred = svm_severity.predict(embedding)[0]
+                severity = le_severity.inverse_transform([sev_pred])[0].capitalize()
 
-        # Predict Emotion
-        emotion_pred = svm_emotion.predict(embedding)[0]
-        emotion = le_emotion.inverse_transform([emotion_pred])[0]
-        category = categorize_emotion(emotion)
+                # Generate Recommendations
+                emotion = emotion.lower()
+                recommendation = []
 
-        # Predict Severity (only for negative emotions)
-        if category == "Negative":
-            sev_pred = svm_severity.predict(embedding)[0]
-            severity = le_severity.inverse_transform([sev_pred])[0].capitalize()
-        else:
-            severity = "None"
+                if emotion == "anger":
+                    if severity == "High":
+                        recommendation = [
+                            "Seek professional anger management counseling.",
+                            "Practice mindfulness and relaxation techniques daily.",
+                            "Avoid confrontation and take space to cool down."
+                        ]
+                    elif severity == "Moderate":
+                        recommendation = [
+                            "Use physical activity like walking to release tension.",
+                            "Try journaling or speaking with a close friend.",
+                            "Identify triggers and avoid them when possible."
+                        ]
+                    elif severity == "Low":
+                        recommendation = [
+                            "Take deep breaths when you feel irritated.",
+                            "Engage in relaxing hobbies or music.",
+                            "Keep a journal to track your emotional responses."
+                        ]
 
-        # Typing animation
-        with st.chat_message("assistant"):
-            with st.spinner("Analyzing your emotion..."):
-                time.sleep(1.5)
+                elif emotion == "fear":
+                    if severity == "High":
+                        recommendation = [
+                            "Consider exposure therapy with a licensed therapist.",
+                            "Avoid isolation—stay connected with a trusted support system.",
+                            "Learn about grounding techniques to manage fear responses."
+                        ]
+                    elif severity == "Moderate":
+                        recommendation = [
+                            "Join a support group or talk to a counselor.",
+                            "Practice deep breathing and progressive muscle relaxation.",
+                            "Reduce media exposure to triggering content."
+                        ]
+                    elif severity == "Low":
+                        recommendation = [
+                            "Try writing down your fears and rational responses.",
+                            "Talk to someone you trust about what's worrying you.",
+                            "Get adequate rest and maintain healthy habits."
+                        ]
 
-            if emotion.lower() in ["happy", "neutral"]:
-                response = f"You seem **{emotion.lower()}** 😊. That's wonderful! Keep spreading positivity!"
+                elif emotion == "depression":
+                    if severity == "High":
+                        recommendation = [
+                            "Consult a licensed therapist or psychiatrist immediately.",
+                            "Avoid isolation—engage with a trusted person daily.",
+                            "Reach out to crisis support lines if you're feeling unsafe."
+                        ]
+                    elif severity == "Medium":
+                        recommendation = [
+                            "Consider talking to a mental health professional.",
+                            "Try behavioral activation: engage in simple daily tasks.",
+                            "Stay connected with people who uplift you."
+                        ]
+                    elif severity == "Low":
+                        recommendation = [
+                            "Keep a daily gratitude journal.",
+                            "Incorporate short walks or light exercise into your routine.",
+                            "Avoid negative self-talk and try affirmations."
+                        ]
+
+                elif emotion == "anxiety":
+                    if severity == "High":
+                        recommendation = [
+                            "Speak with a therapist about cognitive behavioral therapy.",
+                            "Practice grounding techniques (like 5-4-3-2-1 method).",
+                            "Avoid stimulants like caffeine and maintain sleep hygiene."
+                        ]
+                    elif severity == "Moderate":
+                        recommendation = [
+                            "Use meditation apps or breathing exercises.",
+                            "Try limiting your screen time or exposure to stressors.",
+                            "Keep a worry journal to express thoughts."
+                        ]
+                    elif severity == "Low":
+                        recommendation = [
+                            "Take slow, deep breaths during anxious moments.",
+                            "Maintain a regular schedule for meals and rest.",
+                            "Engage in calming routines like reading or nature walks."
+                        ]
+
+                elif emotion == "sad":
+                    if severity == "High":
+                        recommendation = [
+                            "Reach out to a therapist to explore persistent sadness.",
+                            "Engage in social activities even if you don’t feel like it.",
+                            "Listen to uplifting music or engage in creative outlets."
+                        ]
+                    elif severity == "Moderate":
+                        recommendation = [
+                            "Talk about your feelings with someone you trust.",
+                            "Focus on small accomplishments throughout your day.",
+                            "Get sunlight exposure and physical movement daily."
+                        ]
+                    elif severity == "Low":
+                        recommendation = [
+                            "Practice self-compassion and avoid negative self-talk.",
+                            "Journal your thoughts and focus on solutions.",
+                            "Allow yourself to feel emotions without judgment."
+                        ]
+
             else:
-                suggestions = get_suggestion(emotion)
-                suggestion_text = "\n".join([f"- {tip}" for tip in suggestions])
-                response = (
-                    f"**Emotion:** `{emotion}` | **Severity:** `{severity}`\n\n"
-                    f"**💡 Suggestions:**\n{suggestion_text}"
-                )
+                severity = ""
+                recommendation = None
 
-            st.markdown(response)
+    return render_template(
+        "index.html",
+        prediction=prediction,
+        severity=severity,
+        error=error,
+        recommendation=recommendation
+    )
 
-    st.session_state.messages.append({"role": "assistant", "content": response})
+if __name__ == "__main__":
+    app.run(debug=True)
