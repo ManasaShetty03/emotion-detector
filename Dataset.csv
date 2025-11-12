@@ -1,0 +1,2178 @@
+Text,Category,Emotion,Severity
+watched a feel-good movie. it lifted my spirits.,Positive,Happy,'
+i felt appreciated for the little things i did.,Positive,Happy,'
+i love teaching.,Positive,Happy,'
+what are you doing?,Neutral,Neutral,'
+i'm feeling mildly upset.,Negative,Sad,Low
+every sound makes me jump with fear.,Negative,Fear,High
+i find it hard to concentrate when worried.,Negative,Anxiety,Moderate
+i punch walls when i lose control.,Negative,Anger,High
+i'm drowning in overwhelming sorrow.,Negative,Sad,High
+i am terrified of going outside alone.,Negative,Fear,High
+i feel slightly deflated.,Negative,Sad,Low
+"got a compliment at work, it made my day.",Positive,Happy,'
+i had a rough conversation today.,Negative,Sad,Moderate
+I feel sleepy,Neutral,Neutral,'
+"tried a new recipe, and it turned out okay!",Positive,Happy,'
+"i laughed so much today, it felt amazing.",Positive,Happy,'
+so hurt i can't explain it.,Negative,Sad,High
+i'm struggling to find a reason to get through the day.,Negative,Depression,Moderate
+i experience physical tension from worry.,Negative,Anxiety,Moderate
+i feel like i'm beyond saving.,Negative,Depression,High
+i don't know how much longer i can keep going.,Negative,Depression,High
+"i laughed so much today, it felt amazing.",Positive,Happy,'
+this moment is perfect.,Positive,Happy,'
+my hands get sweaty talking to strangers.,Negative,Anxiety,Moderate
+life just hurts right now.,Negative,Sad,High
+dark rooms make me uncomfortable.,Negative,Fear,Low
+had a nice conversation with a friend today.,Positive,Happy,'
+had a delicious meal and laughed a lot tonight.,Positive,Happy,'
+she works in the marketing department.,Neutral,Neutral,'
+i feel like i'm slowly fading from memory.,Negative,Depression,Moderate
+everything feels right today.,Positive,Happy,'
+i feel uncomfortable during casual conversations.,Negative,Anxiety,Low
+they serve lunch until 3 pm.,Neutral,Neutral,'
+i'm suffocating under the weight of sadness.,Negative,Sad,High
+i'm consumed by hopelessness.,Negative,Depression,High
+i feel breathless and dizzy during panic attacks.,Negative,Anxiety,High
+"made progress on my goals, feels amazing.",Positive,Happy,'
+i feel heated when my time is wasted.,Negative,Anger,Moderate
+i'm somewhat afraid of spiders.,Negative,Fear,Low
+got good feedback on something i worked hard on.,Positive,Happy,'
+he drives to work daily.,Neutral,Neutral,'
+i hesitate to make decisions due to fear.,Negative,Fear,Moderate
+making phone calls stresses me out slightly.,Negative,Anxiety,Low
+i sometimes overthink small things.,Negative,Anxiety,Low
+it is becoming harder to pretend i am okay.,Negative,Depression,Moderate
+i no longer enjoy things i used to love.,Negative,Depression,Low
+my anger frightens even me sometimes.,Negative,Anger,High
+i'm slightly discouraged.,Negative,Sad,Low
+i find it hard to concentrate when worried.,Negative,Anxiety,Moderate
+i worry about small details.,Negative,Anxiety,Low
+the package was delivered yesterday.,Neutral,Neutral,'
+i got the job! i am over the moon!,Positive,Happy,'
+arguments leave me feeling worked up.,Negative,Anger,Moderate
+i'm feeling a bit down today.,Negative,Sad,Low
+i feel quite low after work.,Negative,Sad,Moderate
+a kind message from a friend made my day.,Positive,Happy,'
+i feel unsafe in unfamiliar places.,Negative,Fear,Moderate
+life just hurts right now.,Negative,Sad,High
+enjoyed peaceful moments with family.,Positive,Happy,'
+i get defensive when criticized.,Negative,Anger,Moderate
+i feel empty inside.,Negative,Sad,Moderate
+repetitive sounds irritate me slightly.,Negative,Anger,Low
+"everyone's around, but i still feel distant.",Negative,Depression,Low
+my anger turns into destructive behavior.,Negative,Anger,High
+i sometimes overthink small things.,Negative,Anxiety,Low
+i have violent thoughts during fits of rage.,Negative,Anger,High
+i can't control my rage anymore.,Negative,Anger,High
+i feel somewhat blue.,Negative,Sad,Low
+i felt truly connected with people today.,Positive,Happy,'
+i'm afraid of making mistakes.,Negative,Fear,Moderate
+i wake up feeling stressed without reason.,Negative,Anxiety,Moderate
+she is reading a book.,Neutral,Neutral,'
+i feel irritated by loud noises.,Negative,Anger,Low
+i double-check things more than i should.,Negative,Anxiety,Low
+i get worked up over injustice.,Negative,Anger,Moderate
+confronting people gives me chills.,Negative,Fear,Moderate
+i raise my voice when disrespected.,Negative,Anger,Moderate
+i feel panic and can't breathe properly.,Negative,Anxiety,High
+everything feels right today.,Positive,Happy,'
+strangers staring makes me anxious.,Negative,Fear,Moderate
+i often fear losing control in situations.,Negative,Fear,Moderate
+i'm haunted by past traumatic experiences.,Negative,Fear,High
+i'm overwhelmed by complete hopelessness.,Negative,Depression,High
+i get upset when promises are broken.,Negative,Anger,Moderate
+every part of me wants to disappear.,Negative,Depression,High
+i feel frustrated when ignored.,Negative,Anger,Moderate
+"had a pretty decent day today, can't complain.",Positive,Happy,'
+i worry about being rejected.,Negative,Fear,Moderate
+i feel mildly frustrated with technical issues.,Negative,Anger,Low
+they serve lunch until 3 pm.,Neutral,Neutral,'
+disorganization makes me quite angry.,Negative,Anger,Moderate
+i'm somewhat disheartened.,Negative,Sad,Low
+i feel breathless and dizzy during panic attacks.,Negative,Anxiety,High
+"it's been a peaceful, uneventful day.",Positive,Happy,'
+i avoid conversations because i feel empty inside.,Negative,Depression,Low
+i worry about small details.,Negative,Anxiety,Low
+i'm consumed by terrifying thoughts.,Negative,Fear,High
+i feel breathless and dizzy during panic attacks.,Negative,Anxiety,High
+i'm paralyzed by overwhelming fear.,Negative,Fear,High
+life feels unbearable every single day.,Negative,Depression,High
+they serve lunch until 3 pm.,Neutral,Neutral,'
+the meeting is at 2 pm.,Neutral,Neutral,'
+i feel emotionally numb.,Negative,Depression,Low
+i get chest pains from extreme worry.,Negative,Anxiety,High
+everything feels like too much all the time.,Negative,Anxiety,High
+"finally finished that project, what a relief!",Positive,Happy,'
+i'm struggling with heavy emotions.,Negative,Sad,Moderate
+life feels beautiful right now.,Positive,Happy,'
+"it's been a peaceful, uneventful day.",Positive,Happy,'
+i no longer enjoy things i used to love.,Negative,Depression,Low
+things aren't going as planned.,Negative,Sad,Low
+i feel uneasy in crowded spaces.,Negative,Fear,Low
+the phone is charging.,Neutral,Neutral,'
+i got the job! i am over the moon!,Positive,Happy,'
+i'm mildly disappointed.,Negative,Sad,Low
+i get a bit upset when people are rude.,Negative,Anger,Low
+i feel heartbroken.,Negative,Sad,Moderate
+making phone calls stresses me out slightly.,Negative,Anxiety,Low
+i cry without knowing the exact reason.,Negative,Anxiety,High
+my anxiety makes me feel paralyzed in public.,Negative,Anxiety,High
+i feel disconnected from my surroundings.,Negative,Depression,Low
+the bus arrives every 15 minutes.,Neutral,Neutral,'
+i'm lost in overwhelming darkness.,Negative,Depression,Moderate
+every day feels the same and dull.,Negative,Depression,Low
+i'm struggling to focus.,Negative,Sad,Moderate
+i punch walls when i lose control.,Negative,Anger,High
+my hands tremble when i sense danger.,Negative,Fear,Moderate
+i feel like i'm beyond saving.,Negative,Depression,High
+this moment is perfect.,Positive,Happy,'
+i'm somewhat disheartened.,Negative,Sad,Low
+i get mildly anxious meeting new people.,Negative,Anxiety,Low
+i feel deeply disappointed.,Negative,Sad,Moderate
+so hurt i can't explain it.,Negative,Sad,High
+she is reading a book.,Neutral,Neutral,'
+i'm gripped by paralyzing terror.,Negative,Fear,High
+"i laughed so much today, it felt amazing.",Positive,Happy,'
+i get frightened when people raise voices.,Negative,Fear,Moderate
+my anger makes me do things i regret.,Negative,Anger,High
+rage takes over my entire being.,Negative,Anger,High
+the bus arrives every 15 minutes.,Neutral,Neutral,'
+the meeting is at 2 pm.,Neutral,Neutral,'
+i love being around them.,Positive,Happy,'
+"made progress on my goals, feels amazing.",Positive,Happy,'
+my thoughts feel heavy and endless.,Negative,Depression,Moderate
+i feel uneasy in crowded spaces.,Negative,Fear,Low
+i love being around them.,Positive,Happy,'
+there's nothing left that brings me peace.,Negative,Depression,Moderate
+i'm feeling somewhat melancholy.,Negative,Sad,Low
+he drives to work daily.,Neutral,Neutral,'
+the store closes at 9 pm.,Neutral,Neutral,'
+fear keeps me from speaking my mind.,Negative,Fear,Moderate
+i fear failure in every new attempt.,Negative,Fear,Moderate
+today was a good day.,Positive,Happy,'
+i love being around them.,Positive,Happy,'
+i'm slightly afraid of water.,Negative,Fear,Low
+i feel consumed by uncontrollable rage.,Negative,Anger,High
+"made progress on my goals, feels amazing.",Positive,Happy,'
+i'm consumed by hopelessness.,Negative,Depression,High
+my anger builds when people are inconsiderate.,Negative,Anger,Moderate
+i downloaded a new app.,Neutral,Neutral,'
+woke up feeling positive and ready for the day.,Positive,Happy,'
+i hesitate to walk alone at night.,Negative,Fear,Low
+woke up feeling positive and ready for the day.,Positive,Happy,'
+traffic delays annoy me slightly.,Negative,Anger,Low
+i'm experiencing profound sadness.,Negative,Sad,Moderate
+the conference call lasted an hour.,Neutral,Neutral,'
+rude behavior makes me notably angry.,Negative,Anger,Moderate
+uncertainty causes me noticeable distress.,Negative,Anxiety,Moderate
+i get slightly upset by inconsiderate behavior.,Negative,Anger,Low
+i feel disconnected from my surroundings.,Negative,Depression,Low
+i feel like i'm drowning in emptiness.,Negative,Depression,Moderate
+uncertainty causes me noticeable distress.,Negative,Anxiety,Moderate
+i keep worrying about my assignments.,Negative,Anxiety,Moderate
+things aren't going as planned.,Negative,Sad,Low
+i feel a bit anxious about heights.,Negative,Fear,Low
+i feel overwhelmed by daily responsibilities.,Negative,Anxiety,Moderate
+enjoyed peaceful moments with family.,Positive,Happy,'
+i'm feeling a bit down today.,Negative,Sad,Low
+i feel uneasy when flying in planes.,Negative,Fear,Low
+i feel panic and can't breathe properly.,Negative,Anxiety,High
+i downloaded a new app.,Neutral,Neutral,'
+i feel like i'm drowning in despair.,Negative,Depression,High
+i cry for no reason and don't know why.,Negative,Depression,Moderate
+got good feedback on something i worked hard on.,Positive,Happy,'
+enjoyed a quiet cup of coffee this morning.,Positive,Happy,'
+things aren't going as planned.,Negative,Sad,Low
+small mistakes make me a little angry.,Negative,Anger,Low
+i just don't feel like myself anymore.,Negative,Depression,Low
+i'm struggling with heavy emotions.,Negative,Sad,Moderate
+strangers staring makes me anxious.,Negative,Fear,Moderate
+life feels beautiful right now.,Positive,Happy,'
+i wake up wishing i hadn't.,Negative,Depression,High
+had a delicious meal and laughed a lot tonight.,Positive,Happy,'
+"got a compliment at work, it made my day.",Positive,Happy,'
+late responses irritate me a bit.,Negative,Anger,Low
+getting out of bed feels like a task.,Negative,Depression,Low
+everything feels like it's falling apart.,Negative,Sad,High
+i have lost all hope and meaning.,Negative,Depression,High
+fear consumes me every night before sleeping.,Negative,Fear,High
+making phone calls stresses me out slightly.,Negative,Anxiety,Low
+i'm suffocating under crushing despair.,Negative,Depression,High
+listening to my favorite playlist and feeling good.,Positive,Happy,'
+i avoid hospitals out of deep fear.,Negative,Fear,High
+got good feedback on something i worked hard on.,Positive,Happy,'
+my mind races with fear every day.,Negative,Anxiety,High
+i feel quite low after work.,Negative,Sad,Moderate
+listening to my favorite playlist and feeling good.,Positive,Happy,'
+caught up with a friend over video call. made my day!,Positive,Happy,'
+i blackout from intense anger sometimes.,Negative,Anger,High
+i get defensive when criticized.,Negative,Anger,Moderate
+"had a pretty decent day today, can't complain.",Positive,Happy,'
+my hands tremble when i sense danger.,Negative,Fear,Moderate
+i feel heartbroken.,Negative,Sad,Moderate
+caught up with a friend over video call. made my day!,Positive,Happy,'
+i feel completely broken inside.,Negative,Depression,High
+today was a good day.,Positive,Happy,'
+i'm slightly worried about deadlines.,Negative,Anxiety,Low
+poor service makes me a bit angry.,Negative,Anger,Low
+i'm slightly nervous about public speaking.,Negative,Fear,Low
+i'm going through the motions of life.,Negative,Depression,Low
+arguments leave me feeling worked up.,Negative,Anger,Moderate
+my temper flares during disagreements.,Negative,Anger,Moderate
+i wish i could disappear.,Negative,Depression,High
+life feels unbearable every single day.,Negative,Depression,High
+i'm going through the motions of life.,Negative,Depression,Low
+my whole body shakes before big decisions.,Negative,Anxiety,High
+i wake up wishing i hadn't.,Negative,Depression,High
+the meeting is at 2 pm.,Neutral,Neutral,'
+a kind message from a friend made my day.,Positive,Happy,'
+i avoid dark alleys out of caution.,Negative,Fear,Low
+arguments leave me feeling worked up.,Negative,Anger,Moderate
+there are clouds in the sky.,Neutral,Neutral,'
+i'm slightly uneasy in social settings.,Negative,Anxiety,Low
+i am terrified of going outside alone.,Negative,Fear,High
+i feel overwhelmed by daily responsibilities.,Negative,Anxiety,Moderate
+"the sun is out, and it feels nice to relax.",Positive,Happy,'
+woke up feeling positive and ready for the day.,Positive,Happy,'
+i avoid conversations because i feel empty inside.,Negative,Depression,Low
+had a delicious meal and laughed a lot tonight.,Positive,Happy,'
+disorganization makes me quite angry.,Negative,Anger,Moderate
+i hesitate to walk alone at night.,Negative,Fear,Low
+the cat is sleeping.,Neutral,Neutral,'
+i'm mildly disappointed.,Negative,Sad,Low
+i get mildly frustrated with slow internet.,Negative,Anger,Low
+woke up feeling positive and ready for the day.,Positive,Happy,'
+the bus arrives every 15 minutes.,Neutral,Neutral,'
+"i laughed so much today, it felt amazing.",Positive,Happy,'
+i got the job! i am over the moon!,Positive,Happy,'
+the meeting is at 2 pm.,Neutral,Neutral,'
+i feel disconnected from others.,Negative,Sad,Moderate
+i experience physical tension from worry.,Negative,Anxiety,Moderate
+"i am here, but i don't feel alive.",Negative,Depression,High
+i wake up from nightmares drenched in sweat.,Negative,Fear,High
+i'm feeling mildly upset.,Negative,Sad,Low
+i'm suffocating under the weight of sadness.,Negative,Sad,High
+"i laughed so much today, it felt amazing.",Positive,Happy,'
+he drives to work daily.,Neutral,Neutral,'
+i feel like i'm in a bottomless pit.,Negative,Depression,High
+small mistakes make me a little angry.,Negative,Anger,Low
+every part of me wants to disappear.,Negative,Depression,High
+i have three appointments today.,Neutral,Neutral,'
+the printer needs paper.,Neutral,Neutral,'
+this is the happiest i've felt in a long time!,Positive,Happy,'
+i'm feeling a bit down today.,Negative,Sad,Low
+"tried a new recipe, and it turned out okay!",Positive,Happy,'
+"the sun is out, and it feels nice to relax.",Positive,Happy,'
+enjoyed peaceful moments with family.,Positive,Happy,'
+i cannot see a way out of this darkness.,Negative,Sad,High
+i'm haunted by past traumatic experiences.,Negative,Fear,High
+my patience runs thin with repeated mistakes.,Negative,Anger,Moderate
+i fear stepping out of the house alone.,Negative,Fear,High
+i can't stop smiling!,Positive,Happy,'
+i'm a bit scared during thunderstorms.,Negative,Fear,Low
+i feel somewhat downcast.,Negative,Sad,Low
+i'm slightly worried about deadlines.,Negative,Anxiety,Low
+i need to buy groceries.,Neutral,Neutral,'
+"everyone's around, but i still feel distant.",Negative,Depression,Low
+he drives to work daily.,Neutral,Neutral,'
+they serve lunch until 3 pm.,Neutral,Neutral,'
+my anger builds when people are inconsiderate.,Negative,Anger,Moderate
+i feel like i'm losing control completely.,Negative,Anxiety,High
+i fear being judged in new groups.,Negative,Fear,Moderate
+a little down but trying to stay positive.,Negative,Sad,Low
+rage takes over my entire being.,Negative,Anger,High
+my anger frightens even me sometimes.,Negative,Anger,High
+"made progress on my goals, feels amazing.",Positive,Happy,'
+a little down but trying to stay positive.,Negative,Sad,Low
+i'm constantly tired after a full night's sleep.,Negative,Depression,Low
+i feel uncomfortable in unfamiliar places.,Negative,Fear,Low
+i feel consumed by unbearable pain.,Negative,Sad,High
+i get defensive when criticized.,Negative,Anger,Moderate
+i get mildly frustrated with slow internet.,Negative,Anger,Low
+i keep worrying about my assignments.,Negative,Anxiety,Moderate
+everything hurts and i can't make it stop.,Negative,Sad,High
+i'm slightly afraid of water.,Negative,Fear,Low
+i got the job! i am over the moon!,Positive,Happy,'
+my anger turns into destructive behavior.,Negative,Anger,High
+i worry about small details.,Negative,Anxiety,Low
+i often fear losing control in situations.,Negative,Fear,Moderate
+i'm slightly worried about the future.,Negative,Fear,Low
+watched a feel-good movie. it lifted my spirits.,Positive,Happy,'
+i'm overwhelmed by complete hopelessness.,Negative,Depression,High
+i did it! i actually did it!,Positive,Happy,'
+he drives to work daily.,Neutral,Neutral,'
+everything feels right today.,Positive,Happy,'
+i stay alert constantly fearing bad news.,Negative,Fear,Moderate
+i feel forgotten and overlooked.,Negative,Sad,Moderate
+she is reading a book.,Neutral,Neutral,'
+i feel terror just hearing certain sounds.,Negative,Fear,High
+i feel like i'm fading into the background.,Negative,Depression,Low
+i avoid social events due to nervousness.,Negative,Anxiety,Moderate
+i love being around them.,Positive,Happy,'
+the store closes at 9 pm.,Neutral,Neutral,'
+woke up feeling positive and ready for the day.,Positive,Happy,'
+i feel uneasy when flying in planes.,Negative,Fear,Low
+i'm suffocating under crushing despair.,Negative,Depression,High
+"finally finished that project, what a relief!",Positive,Happy,'
+life just hurts right now.,Negative,Sad,High
+my fury is completely overwhelming.,Negative,Anger,High
+everything hurts and i can't make it stop.,Negative,Sad,High
+my mind races with fear every day.,Negative,Anxiety,High
+waiting in long lines frustrates me mildly.,Negative,Anger,Low
+minor mistakes stay on my mind longer.,Negative,Anxiety,Low
+my anxiety makes me feel paralyzed in public.,Negative,Anxiety,High
+the coffee is hot.,Neutral,Neutral,'
+it is becoming harder to pretend i am okay.,Negative,Depression,Moderate
+i can't stop smiling!,Positive,Happy,'
+i keep worrying about my assignments.,Negative,Anxiety,Moderate
+everything feels right today.,Positive,Happy,'
+traffic delays annoy me slightly.,Negative,Anger,Low
+i feel mildly frustrated with technical issues.,Negative,Anger,Low
+there are clouds in the sky.,Neutral,Neutral,'
+i'm lost in overwhelming darkness.,Negative,Depression,Moderate
+i feel like i'm suffocating from anxiety.,Negative,Anxiety,High
+i feel a little gloomy.,Negative,Sad,Low
+i can't stop smiling!,Positive,Happy,'
+i'm slightly worried about deadlines.,Negative,Anxiety,Low
+smiling feels forced and exhausting.,Negative,Depression,Moderate
+i get slightly upset by inconsiderate behavior.,Negative,Anger,Low
+my thoughts feel heavy and endless.,Negative,Depression,Moderate
+the package was delivered yesterday.,Neutral,Neutral,'
+i get upset when promises are broken.,Negative,Anger,Moderate
+the temperature is 22 degrees.,Neutral,Neutral,'
+i feel like i'm slowly disappearing from life.,Negative,Depression,Moderate
+"suddenly, i feel like i'm choking and can't calm down.",Negative,Anxiety,High
+i love being around them.,Positive,Happy,'
+repetitive sounds irritate me slightly.,Negative,Anger,Low
+got good feedback on something i worked hard on.,Positive,Happy,'
+i'm consumed by hopelessness.,Negative,Depression,High
+everything feels like too much all the time.,Negative,Anxiety,High
+minor mistakes stay on my mind longer.,Negative,Anxiety,Low
+i get upset when promises are broken.,Negative,Anger,Moderate
+i feel nervous about job interviews.,Negative,Fear,Low
+the coffee is hot.,Neutral,Neutral,'
+this moment is perfect.,Positive,Happy,'
+confronting people gives me chills.,Negative,Fear,Moderate
+i completed a big task and feel accomplished.,Positive,Happy,'
+fear keeps me from speaking my mind.,Negative,Fear,Moderate
+my anxiety makes me feel paralyzed in public.,Negative,Anxiety,High
+a kind message from a friend made my day.,Positive,Happy,'
+life feels beautiful right now.,Positive,Happy,'
+i am so proud of myself.,Positive,Happy,'
+listening to my favorite playlist and feeling good.,Positive,Happy,'
+i feel terror just hearing certain sounds.,Negative,Fear,High
+i get a bit upset when people are rude.,Negative,Anger,Low
+the conference call lasted an hour.,Neutral,Neutral,'
+i'm consumed by overwhelming panic.,Negative,Anxiety,High
+a kind message from a friend made my day.,Positive,Happy,'
+i feel slightly disappointed.,Negative,Sad,Low
+i feel angry when treated unfairly.,Negative,Anger,Moderate
+uncertainty causes me noticeable distress.,Negative,Anxiety,Moderate
+i feel like i'm slowly fading from memory.,Negative,Depression,Moderate
+the printer needs paper.,Neutral,Neutral,'
+i'm mildly disappointed.,Negative,Sad,Low
+my anger builds when people are inconsiderate.,Negative,Anger,Moderate
+"the sun is out, and it feels nice to relax.",Positive,Happy,'
+deadlines make my heart race frequently.,Negative,Anxiety,Moderate
+a kind message from a friend made my day.,Positive,Happy,'
+i feel completely broken inside.,Negative,Sad,High
+i'm slightly uneasy in social settings.,Negative,Anxiety,Low
+getting out of bed feels like a task.,Negative,Depression,Low
+the weather is pleasant today.,Neutral,Neutral,'
+i get chest pains from extreme worry.,Negative,Anxiety,High
+i did it! i actually did it!,Positive,Happy,'
+"tried a new recipe, and it turned out okay!",Positive,Happy,'
+i feel like i'm beyond saving.,Negative,Depression,High
+had a nice conversation with a friend today.,Positive,Happy,'
+i feel terror just hearing certain sounds.,Negative,Fear,High
+i stay alert constantly fearing bad news.,Negative,Fear,Moderate
+"the sun is out, and it feels nice to relax.",Positive,Happy,'
+i feel emotionally tired.,Negative,Sad,Moderate
+i blackout from intense anger sometimes.,Negative,Anger,High
+"life feels meaningless, and i am just existing.",Negative,Depression,Moderate
+"got a compliment at work, it made my day.",Positive,Happy,'
+i feel slight tension before exams.,Negative,Anxiety,Low
+i feel like i'm falling apart completely.,Negative,Sad,High
+disappointed in myself today.,Negative,Sad,Moderate
+i feel nervous about job interviews.,Negative,Fear,Low
+had a nice conversation with a friend today.,Positive,Happy,'
+it's tuesday today.,Neutral,Neutral,'
+i feel disconnected from my surroundings.,Negative,Depression,Low
+i feel detached from reality due to anxiety.,Negative,Anxiety,High
+i feel nervous about job interviews.,Negative,Fear,Low
+everything feels right today.,Positive,Happy,'
+the coffee is hot.,Neutral,Neutral,'
+i got the job! i am over the moon!,Positive,Happy,'
+i get slightly upset by inconsiderate behavior.,Negative,Anger,Low
+"i feel invisible, like no one would notice if i vanished.",Negative,Depression,High
+i fear failure in every new attempt.,Negative,Fear,Moderate
+the coffee is hot.,Neutral,Neutral,'
+i can't control my rage anymore.,Negative,Anger,High
+the package was delivered yesterday.,Neutral,Neutral,'
+enjoyed a quiet cup of coffee this morning.,Positive,Happy,'
+i feel like i'm in constant danger.,Negative,Fear,High
+minor inconveniences bother me.,Negative,Anger,Low
+i'm paralyzed by intense worry.,Negative,Anxiety,High
+i'm feeling somewhat melancholy.,Negative,Sad,Low
+i completed a big task and feel accomplished.,Positive,Happy,'
+rage takes over my entire being.,Negative,Anger,High
+everything feels like too much all the time.,Negative,Anxiety,High
+i have lost all hope and meaning.,Negative,Depression,High
+i am so proud of myself.,Positive,Happy,'
+i feel emotionally numb.,Negative,Depression,Low
+nothing feels right anymore.,Negative,Sad,High
+i'm overwhelmed by sadness i can't shake off.,Negative,Depression,Moderate
+i no longer enjoy things i used to love.,Negative,Depression,Low
+i fear disappointing others.,Negative,Fear,Moderate
+i get mildly anxious meeting new people.,Negative,Anxiety,Low
+"the sun is out, and it feels nice to relax.",Positive,Happy,'
+i experience physical tension from worry.,Negative,Anxiety,Moderate
+i feel detached from reality due to anxiety.,Negative,Anxiety,High
+enjoyed peaceful moments with family.,Positive,Happy,'
+i am afraid something bad might happen.,Negative,Fear,Moderate
+i panic if loved ones don't respond quickly.,Negative,Fear,High
+i live in constant fear for my safety.,Negative,Fear,High
+it's tuesday today.,Neutral,Neutral,'
+i need to buy groceries.,Neutral,Neutral,'
+my heart feels shattered beyond repair.,Negative,Sad,High
+i hurt myself when rage overtakes me.,Negative,Anger,High
+my anger makes me do things i regret.,Negative,Anger,High
+"life feels meaningless, and i am just existing.",Negative,Depression,Moderate
+this moment is perfect.,Positive,Happy,'
+i feel like i'm falling apart completely.,Negative,Sad,High
+"it's been a peaceful, uneventful day.",Positive,Happy,'
+i missed someone a lot today.,Negative,Sad,Moderate
+it is becoming harder to pretend i am okay.,Negative,Depression,Moderate
+my temper flares during disagreements.,Negative,Anger,Moderate
+i feel like i'm suffocating from anxiety.,Negative,Anxiety,High
+i feel like i'm falling apart completely.,Negative,Sad,High
+the phone is charging.,Neutral,Neutral,'
+rude behavior makes me notably angry.,Negative,Anger,Moderate
+i raise my voice when disrespected.,Negative,Anger,Moderate
+fear keeps me from speaking my mind.,Negative,Fear,Moderate
+i feel emotionally tired.,Negative,Sad,Moderate
+i get chest pains from extreme worry.,Negative,Anxiety,High
+i feel like i'm fading into the background.,Negative,Depression,Low
+"got a compliment at work, it made my day.",Positive,Happy,'
+i feel uncomfortable during casual conversations.,Negative,Anxiety,Low
+poor service makes me a bit angry.,Negative,Anger,Low
+waiting in long lines frustrates me mildly.,Negative,Anger,Low
+i'm struggling to find a reason to get through the day.,Negative,Depression,Moderate
+"tried a new recipe, and it turned out okay!",Positive,Happy,'
+i felt appreciated for the little things i did.,Positive,Happy,'
+i feel forgotten and overlooked.,Negative,Sad,Moderate
+i'm haunted by past traumatic experiences.,Negative,Fear,High
+everything feels right today.,Positive,Happy,'
+"finally finished that project, what a relief!",Positive,Happy,'
+it is becoming harder to pretend i am okay.,Negative,Depression,Moderate
+disappointed in myself today.,Negative,Sad,Moderate
+i cry without knowing the exact reason.,Negative,Anxiety,High
+a small change in routine makes me uneasy.,Negative,Anxiety,Low
+i'm a bit scared during thunderstorms.,Negative,Fear,Low
+i feel like i'm slowly disappearing from life.,Negative,Depression,Moderate
+i am so proud of myself.,Positive,Happy,'
+watched a feel-good movie. it lifted my spirits.,Positive,Happy,'
+i get nervous watching horror movies.,Negative,Fear,Low
+i feel completely broken inside.,Negative,Sad,High
+i have three appointments today.,Neutral,Neutral,'
+my mind races with fear every day.,Negative,Anxiety,High
+i just don't feel like myself anymore.,Negative,Depression,Low
+i'm consumed by overwhelming panic.,Negative,Anxiety,High
+life feels beautiful right now.,Positive,Happy,'
+i'm paralyzed by overwhelming fear.,Negative,Fear,High
+i missed someone a lot today.,Negative,Sad,Moderate
+i get annoyed when plans change suddenly.,Negative,Anger,Low
+enjoyed peaceful moments with family.,Positive,Happy,'
+my anxiety makes me feel paralyzed in public.,Negative,Anxiety,High
+i feel like i'm in a bottomless pit.,Negative,Depression,High
+my hands tremble when i sense danger.,Negative,Fear,Moderate
+my patience runs thin with repeated mistakes.,Negative,Anger,Moderate
+i find it hard to concentrate when worried.,Negative,Anxiety,Moderate
+i panic if loved ones don't respond quickly.,Negative,Fear,High
+"finally finished that project, what a relief!",Positive,Happy,'
+i do not feel connected to anyone around me.,Negative,Depression,Moderate
+this is the happiest i've felt in a long time!,Positive,Happy,'
+my mind is constantly battling itself.,Negative,Depression,Moderate
+the cat is sleeping.,Neutral,Neutral,'
+i did it! i actually did it!,Positive,Happy,'
+my patience runs thin with repeated mistakes.,Negative,Anger,Moderate
+i feel somewhat downcast.,Negative,Sad,Low
+today was a good day.,Positive,Happy,'
+i feel heated when my time is wasted.,Negative,Anger,Moderate
+i can't stop smiling!,Positive,Happy,'
+i felt truly connected with people today.,Positive,Happy,'
+disappointed in myself today.,Negative,Sad,Moderate
+i completed a big task and feel accomplished.,Positive,Happy,'
+i feel breathless during stressful moments.,Negative,Anxiety,Moderate
+i'm afraid of making mistakes.,Negative,Fear,Moderate
+"tried a new recipe, and it turned out okay!",Positive,Happy,'
+group discussions make me sweat nervously.,Negative,Anxiety,Moderate
+"i feel invisible, like no one would notice if i vanished.",Negative,Depression,High
+listening to my favorite playlist and feeling good.,Positive,Happy,'
+i get mildly frustrated with slow internet.,Negative,Anger,Low
+i'm suffocating under the weight of sadness.,Negative,Sad,High
+minor inconveniences bother me.,Negative,Anger,Low
+there are clouds in the sky.,Neutral,Neutral,'
+messy spaces make me somewhat angry.,Negative,Anger,Low
+i downloaded a new app.,Neutral,Neutral,'
+fear consumes me every night before sleeping.,Negative,Fear,High
+i love being around them.,Positive,Happy,'
+i feel like a burden.,Negative,Sad,High
+i wake up feeling stressed without reason.,Negative,Anxiety,Moderate
+life feels beautiful right now.,Positive,Happy,'
+deadlines make my heart race frequently.,Negative,Anxiety,Moderate
+tears won't stop today.,Negative,Sad,High
+had a delicious meal and laughed a lot tonight.,Positive,Happy,'
+today was a good day.,Positive,Happy,'
+i cannot see a way out of this darkness.,Negative,Sad,High
+i'm overwhelmed by complete hopelessness.,Negative,Depression,High
+the printer needs paper.,Neutral,Neutral,'
+the phone is charging.,Neutral,Neutral,'
+i'm constantly tired after a full night's sleep.,Negative,Depression,Low
+i'm feeling mildly upset.,Negative,Sad,Low
+the weather is pleasant today.,Neutral,Neutral,'
+i feel distant from everyone.,Negative,Sad,Moderate
+i feel a bit off today.,Negative,Sad,Low
+this is the happiest i've felt in a long time!,Positive,Happy,'
+i feel a bit anxious about heights.,Negative,Fear,Low
+i feel irritated by loud noises.,Negative,Anger,Low
+i feel panic and can't breathe properly.,Negative,Anxiety,High
+i blackout from intense anger sometimes.,Negative,Anger,High
+the conference call lasted an hour.,Neutral,Neutral,'
+"i laughed so much today, it felt amazing.",Positive,Happy,'
+smiling feels forced and exhausting.,Negative,Depression,Moderate
+i double-check things more than i should.,Negative,Anxiety,Low
+i fear failure in every new attempt.,Negative,Fear,Moderate
+i get heated during difficult conversations.,Negative,Anger,Moderate
+i feel somewhat downcast.,Negative,Sad,Low
+she is reading a book.,Neutral,Neutral,'
+my thoughts feel heavy and hard to escape.,Negative,Depression,Moderate
+i did it! i actually did it!,Positive,Happy,'
+my anger makes me do things i regret.,Negative,Anger,High
+my thoughts spiral when i'm uncertain.,Negative,Anxiety,Moderate
+arguments leave me feeling worked up.,Negative,Anger,Moderate
+enjoyed a quiet cup of coffee this morning.,Positive,Happy,'
+fear consumes me every night before sleeping.,Negative,Fear,High
+i feel like i'm drowning in despair.,Negative,Depression,High
+everything feels like it's falling apart.,Negative,Sad,High
+she works in the marketing department.,Neutral,Neutral,'
+the conference call lasted an hour.,Neutral,Neutral,'
+my hands tremble when i sense danger.,Negative,Fear,Moderate
+i wake up feeling stressed without reason.,Negative,Anxiety,Moderate
+watched a feel-good movie. it lifted my spirits.,Positive,Happy,'
+they serve lunch until 3 pm.,Neutral,Neutral,'
+i cry for no reason and don't know why.,Negative,Depression,Moderate
+i feel frustrated when ignored.,Negative,Anger,Moderate
+enjoyed a quiet cup of coffee this morning.,Positive,Happy,'
+i just don't feel like myself anymore.,Negative,Depression,Low
+i lack motivation for daily activities.,Negative,Depression,Low
+i am afraid something bad might happen.,Negative,Fear,Moderate
+this is the happiest i've felt in a long time!,Positive,Happy,'
+i feel uncomfortable in unfamiliar places.,Negative,Fear,Low
+i cry for no reason and don't know why.,Negative,Depression,Moderate
+a small change in routine makes me uneasy.,Negative,Anxiety,Low
+my temper flares during disagreements.,Negative,Anger,Moderate
+i'm lost in overwhelming darkness.,Negative,Depression,Moderate
+my anger turns into destructive behavior.,Negative,Anger,High
+i felt appreciated for the little things i did.,Positive,Happy,'
+disrespectful comments make me angry.,Negative,Anger,Moderate
+i don't know how much longer i can keep going.,Negative,Depression,High
+dark rooms make me uncomfortable.,Negative,Fear,Low
+i can't sleep because of overwhelming anxiety.,Negative,Anxiety,High
+i feel angry when treated unfairly.,Negative,Anger,Moderate
+"finally finished that project, what a relief!",Positive,Happy,'
+the printer needs paper.,Neutral,Neutral,'
+"made progress on my goals, feels amazing.",Positive,Happy,'
+i feel nervous about new experiences.,Negative,Anxiety,Low
+i hesitate to walk alone at night.,Negative,Fear,Low
+i get annoyed when plans change suddenly.,Negative,Anger,Low
+i did it! i actually did it!,Positive,Happy,'
+i become violent when extremely angry.,Negative,Anger,High
+life feels unbearable every single day.,Negative,Depression,High
+i feel forgotten and overlooked.,Negative,Sad,Moderate
+group discussions make me sweat nervously.,Negative,Anxiety,Moderate
+i panic if loved ones don't respond quickly.,Negative,Fear,High
+i feel like i'm drowning in emptiness.,Negative,Depression,Moderate
+had a delicious meal and laughed a lot tonight.,Positive,Happy,'
+the package was delivered yesterday.,Neutral,Neutral,'
+my fury is completely overwhelming.,Negative,Anger,High
+i worry excessively about future events.,Negative,Anxiety,Moderate
+disorganization makes me quite angry.,Negative,Anger,Moderate
+i'm slightly uneasy in social settings.,Negative,Anxiety,Low
+i have three appointments today.,Neutral,Neutral,'
+i feel tense in social situations.,Negative,Anxiety,Low
+i'm overwhelmed by sadness i can't shake off.,Negative,Depression,Moderate
+i'm afraid of making mistakes.,Negative,Fear,Moderate
+i'm terrified of being left alone forever.,Negative,Fear,High
+i'm consumed by overwhelming panic.,Negative,Anxiety,High
+the weather is pleasant today.,Neutral,Neutral,'
+my thoughts spiral when i'm uncertain.,Negative,Anxiety,Moderate
+i get annoyed when plans change suddenly.,Negative,Anger,Low
+there's a constant feeling of restlessness.,Negative,Anxiety,Moderate
+i break down after intense outbursts.,Negative,Anger,High
+a little down but trying to stay positive.,Negative,Sad,Low
+i felt truly connected with people today.,Positive,Happy,'
+"got a compliment at work, it made my day.",Positive,Happy,'
+i don't know how much longer i can keep going.,Negative,Depression,High
+i feel a bit nervous before meetings.,Negative,Anxiety,Low
+i feel like i'm in constant danger.,Negative,Fear,High
+i feel disconnected from others.,Negative,Sad,Moderate
+i feel slightly deflated.,Negative,Sad,Low
+i feel mildly frustrated with technical issues.,Negative,Anger,Low
+she works in the marketing department.,Neutral,Neutral,'
+disrespectful comments make me angry.,Negative,Anger,Moderate
+i'm consumed by terrifying thoughts.,Negative,Fear,High
+i feel like breaking things when angry.,Negative,Anger,High
+i'm struggling to find a reason to get through the day.,Negative,Depression,Moderate
+life feels beautiful right now.,Positive,Happy,'
+i feel slightly disappointed.,Negative,Sad,Low
+there's nothing left that brings me peace.,Negative,Depression,Moderate
+i feel deeply disappointed.,Negative,Sad,Moderate
+i can't stop smiling!,Positive,Happy,'
+the temperature is 22 degrees.,Neutral,Neutral,'
+i'm overwhelmed by sadness i can't shake off.,Negative,Depression,Moderate
+i fear disappointing others.,Negative,Fear,Moderate
+caught up with a friend over video call. made my day!,Positive,Happy,'
+i avoid social events due to nervousness.,Negative,Anxiety,Moderate
+my heart feels shattered beyond repair.,Negative,Sad,High
+i'm a bit scared during thunderstorms.,Negative,Fear,Low
+i had a rough conversation today.,Negative,Sad,Moderate
+she works in the marketing department.,Neutral,Neutral,'
+i'm paralyzed by intense worry.,Negative,Anxiety,High
+i'm overwhelmed by sadness i can't shake.,Negative,Sad,High
+the temperature is 22 degrees.,Neutral,Neutral,'
+i'm terrified of being left alone forever.,Negative,Fear,High
+watched a feel-good movie. it lifted my spirits.,Positive,Happy,'
+i feel like i'm drowning in emptiness.,Negative,Depression,Moderate
+nothing feels right anymore.,Negative,Sad,High
+i got the job! i am over the moon!,Positive,Happy,'
+i feel empty inside.,Negative,Sad,Moderate
+every sound makes me jump with fear.,Negative,Fear,High
+"everyone's around, but i still feel distant.",Negative,Depression,Low
+messy spaces make me somewhat angry.,Negative,Anger,Low
+i feel somewhat blue.,Negative,Sad,Low
+i avoid conversations because i feel empty inside.,Negative,Depression,Low
+the cat is sleeping.,Neutral,Neutral,'
+i feel overwhelmed by daily responsibilities.,Negative,Anxiety,Moderate
+i'm consumed by terrifying thoughts.,Negative,Fear,High
+"suddenly, i feel like i'm choking and can't calm down.",Negative,Anxiety,High
+i have been feeling emotionally flat lately.,Negative,Depression,Low
+i'm haunted by past traumatic experiences.,Negative,Fear,High
+the cat is sleeping.,Neutral,Neutral,'
+group discussions make me sweat nervously.,Negative,Anxiety,Moderate
+i feel distant from everyone.,Negative,Sad,Moderate
+i'm experiencing profound sadness.,Negative,Sad,Moderate
+i avoid hospitals out of deep fear.,Negative,Fear,High
+i have violent thoughts during fits of rage.,Negative,Anger,High
+i avoid dark alleys out of caution.,Negative,Fear,Low
+i feel nervous about new experiences.,Negative,Anxiety,Low
+i'm feeling overwhelmed by sadness.,Negative,Sad,Moderate
+i feel like i'm in a bottomless pit.,Negative,Depression,High
+caught up with a friend over video call. made my day!,Positive,Happy,'
+so hurt i can't explain it.,Negative,Sad,High
+i feel irritated by loud noises.,Negative,Anger,Low
+she is reading a book.,Neutral,Neutral,'
+i fear stepping out of the house alone.,Negative,Fear,High
+i feel consumed by uncontrollable rage.,Negative,Anger,High
+today was a good day.,Positive,Happy,'
+i stay alert constantly fearing bad news.,Negative,Fear,Moderate
+i'm slightly afraid of water.,Negative,Fear,Low
+i'm slightly nervous about public speaking.,Negative,Fear,Low
+i am terrified of going outside alone.,Negative,Fear,High
+i'm slightly afraid of water.,Negative,Fear,Low
+i feel deeply disappointed.,Negative,Sad,Moderate
+every day feels the same and dull.,Negative,Depression,Low
+i've been isolating myself more than usual.,Negative,Depression,Low
+i'm somewhat afraid of spiders.,Negative,Fear,Low
+i feel uncomfortable during casual conversations.,Negative,Anxiety,Low
+i can't stop smiling!,Positive,Happy,'
+i'm struggling with heavy emotions.,Negative,Sad,Moderate
+i downloaded a new app.,Neutral,Neutral,'
+i wake up from nightmares drenched in sweat.,Negative,Fear,High
+i'm feeling overwhelmed by sadness.,Negative,Sad,Moderate
+repetitive sounds irritate me slightly.,Negative,Anger,Low
+traffic delays annoy me slightly.,Negative,Anger,Low
+the meeting is at 2 pm.,Neutral,Neutral,'
+i'm gripped by paralyzing terror.,Negative,Fear,High
+i feel like i'm losing control completely.,Negative,Anxiety,High
+everything hurts and i can't make it stop.,Negative,Sad,High
+"suddenly, i feel like i'm choking and can't calm down.",Negative,Anxiety,High
+things aren't going as planned.,Negative,Sad,Low
+i get worked up over injustice.,Negative,Anger,Moderate
+there's nothing left that brings me peace.,Negative,Depression,Moderate
+i'm paralyzed by intense worry.,Negative,Anxiety,High
+i'm slightly nervous about public speaking.,Negative,Fear,Low
+i feel slightly annoyed when interrupted.,Negative,Anger,Low
+i get mildly frustrated with slow internet.,Negative,Anger,Low
+i'm experiencing profound sadness.,Negative,Sad,Moderate
+i downloaded a new app.,Neutral,Neutral,'
+i'm paralyzed by overwhelming fear.,Negative,Fear,High
+minor inconveniences bother me.,Negative,Anger,Low
+i can't control my rage anymore.,Negative,Anger,High
+i completed a big task and feel accomplished.,Positive,Happy,'
+i feel a little gloomy.,Negative,Sad,Low
+i feel heartbroken.,Negative,Sad,Moderate
+the bus arrives every 15 minutes.,Neutral,Neutral,'
+i feel unsafe in unfamiliar places.,Negative,Fear,Moderate
+i feel like i'm just existing.,Negative,Depression,Low
+i punch walls when i lose control.,Negative,Anger,High
+the store closes at 9 pm.,Neutral,Neutral,'
+today was a good day.,Positive,Happy,'
+"had a pretty decent day today, can't complain.",Positive,Happy,'
+i'm somewhat disheartened.,Negative,Sad,Low
+"tried a new recipe, and it turned out okay!",Positive,Happy,'
+strangers staring makes me anxious.,Negative,Fear,Moderate
+i get worked up over injustice.,Negative,Anger,Moderate
+i did it! i actually did it!,Positive,Happy,'
+my hands get sweaty talking to strangers.,Negative,Anxiety,Moderate
+i worry excessively about future events.,Negative,Anxiety,Moderate
+i double-check things more than i should.,Negative,Anxiety,Low
+tears won't stop today.,Negative,Sad,High
+i get mildly anxious meeting new people.,Negative,Anxiety,Low
+i do not feel connected to anyone around me.,Negative,Depression,Moderate
+i cannot see a way out of this darkness.,Negative,Sad,High
+i feel like i'm suffocating from anxiety.,Negative,Anxiety,High
+my thoughts feel heavy and hard to escape.,Negative,Depression,Moderate
+i get a bit upset when people are rude.,Negative,Anger,Low
+my anger frightens even me sometimes.,Negative,Anger,High
+i am so proud of myself.,Positive,Happy,'
+i feel breathless during stressful moments.,Negative,Anxiety,Moderate
+i feel empty inside.,Negative,Sad,Moderate
+i'm suffocating under crushing despair.,Negative,Depression,High
+i'm overwhelmed by sadness i can't shake.,Negative,Sad,High
+she works in the marketing department.,Neutral,Neutral,'
+a kind message from a friend made my day.,Positive,Happy,'
+i got the job! i am over the moon!,Positive,Happy,'
+i check locks before sleeping.,Negative,Fear,Low
+"the sun is out, and it feels nice to relax.",Positive,Happy,'
+i avoid social events due to nervousness.,Negative,Anxiety,Moderate
+i'm slightly worried about the future.,Negative,Fear,Low
+i feel angry when treated unfairly.,Negative,Anger,Moderate
+i have three appointments today.,Neutral,Neutral,'
+late responses irritate me a bit.,Negative,Anger,Low
+i check locks before sleeping.,Negative,Fear,Low
+i feel like i'm slowly disappearing from life.,Negative,Depression,Moderate
+i get frightened when people raise voices.,Negative,Fear,Moderate
+"had a pretty decent day today, can't complain.",Positive,Happy,'
+"it's been a peaceful, uneventful day.",Positive,Happy,'
+a kind message from a friend made my day.,Positive,Happy,'
+i break down after intense outbursts.,Negative,Anger,High
+i'm a bit emotional today.,Negative,Sad,Low
+i hurt myself when rage overtakes me.,Negative,Anger,High
+i'm struggling to focus.,Negative,Sad,Moderate
+i have been feeling emotionally flat lately.,Negative,Depression,Low
+the conference call lasted an hour.,Neutral,Neutral,'
+i feel forgotten and overlooked.,Negative,Sad,Moderate
+i am afraid something bad might happen.,Negative,Fear,Moderate
+i raise my voice when disrespected.,Negative,Anger,Moderate
+poor service makes me a bit angry.,Negative,Anger,Low
+i feel slightly annoyed when interrupted.,Negative,Anger,Low
+"had a pretty decent day today, can't complain.",Positive,Happy,'
+the temperature is 22 degrees.,Neutral,Neutral,'
+i feel like i'm fading into the background.,Negative,Depression,Low
+i struggle to relax even after work.,Negative,Anxiety,Moderate
+i get mildly anxious meeting new people.,Negative,Anxiety,Low
+i've lost relationships due to anger issues.,Negative,Anger,High
+i do not feel connected to anyone around me.,Negative,Depression,Moderate
+i have lost all hope and meaning.,Negative,Depression,High
+this is the happiest i've felt in a long time!,Positive,Happy,'
+i feel completely broken inside.,Negative,Depression,High
+i'm drowning in overwhelming sorrow.,Negative,Sad,High
+there are clouds in the sky.,Neutral,Neutral,'
+i become violent when extremely angry.,Negative,Anger,High
+confronting people gives me chills.,Negative,Fear,Moderate
+i avoid hospitals out of deep fear.,Negative,Fear,High
+i'm terrified of being left alone forever.,Negative,Fear,High
+i felt truly connected with people today.,Positive,Happy,'
+i felt appreciated for the little things i did.,Positive,Happy,'
+my mind is constantly battling itself.,Negative,Depression,Moderate
+my whole body shakes before big decisions.,Negative,Anxiety,High
+i become violent when extremely angry.,Negative,Anger,High
+i lack motivation for daily activities.,Negative,Depression,Low
+i can't sleep because of overwhelming anxiety.,Negative,Anxiety,High
+"finally finished that project, what a relief!",Positive,Happy,'
+i'm slightly discouraged.,Negative,Sad,Low
+i've been isolating myself more than usual.,Negative,Depression,Low
+enjoyed peaceful moments with family.,Positive,Happy,'
+i worry about being rejected.,Negative,Fear,Moderate
+got good feedback on something i worked hard on.,Positive,Happy,'
+had a delicious meal and laughed a lot tonight.,Positive,Happy,'
+i get heated during difficult conversations.,Negative,Anger,Moderate
+my fury is completely overwhelming.,Negative,Anger,High
+i feel quite low after work.,Negative,Sad,Moderate
+there's a constant feeling of restlessness.,Negative,Anxiety,Moderate
+the weather is pleasant today.,Neutral,Neutral,'
+"finally finished that project, what a relief!",Positive,Happy,'
+caught up with a friend over video call. made my day!,Positive,Happy,'
+i have lost all hope and meaning.,Negative,Depression,High
+getting out of bed feels like a task.,Negative,Depression,Low
+i hesitate to walk alone at night.,Negative,Fear,Low
+"i am here, but i don't feel alive.",Negative,Depression,High
+the temperature is 22 degrees.,Neutral,Neutral,'
+rude behavior makes me notably angry.,Negative,Anger,Moderate
+i need to buy groceries.,Neutral,Neutral,'
+the phone is charging.,Neutral,Neutral,'
+i need to buy groceries.,Neutral,Neutral,'
+i feel like i'm just existing.,Negative,Depression,Low
+i stay alert constantly fearing bad news.,Negative,Fear,Moderate
+i live in constant fear for my safety.,Negative,Fear,High
+i had a rough conversation today.,Negative,Sad,Moderate
+i'm a bit emotional today.,Negative,Sad,Low
+disappointed in myself today.,Negative,Sad,Moderate
+i get nervous watching horror movies.,Negative,Fear,Low
+i check locks before sleeping.,Negative,Fear,Low
+i'm struggling to focus.,Negative,Sad,Moderate
+i have three appointments today.,Neutral,Neutral,'
+dark rooms make me uncomfortable.,Negative,Fear,Low
+i can't sleep because of overwhelming anxiety.,Negative,Anxiety,High
+had a nice conversation with a friend today.,Positive,Happy,'
+tears won't stop today.,Negative,Sad,High
+i'm drowning in overwhelming sorrow.,Negative,Sad,High
+i get heated during difficult conversations.,Negative,Anger,Moderate
+enjoyed peaceful moments with family.,Positive,Happy,'
+i feel breathless during stressful moments.,Negative,Anxiety,Moderate
+disrespectful comments make me angry.,Negative,Anger,Moderate
+i hesitate to make decisions due to fear.,Negative,Fear,Moderate
+"it's been a peaceful, uneventful day.",Positive,Happy,'
+i feel consumed by unbearable pain.,Negative,Sad,High
+i feel somewhat blue.,Negative,Sad,Low
+i feel uneasy in crowded spaces.,Negative,Fear,Low
+had a nice conversation with a friend today.,Positive,Happy,'
+i cannot see a way out of this darkness.,Negative,Sad,High
+had a delicious meal and laughed a lot tonight.,Positive,Happy,'
+every sound makes me jump with fear.,Negative,Fear,High
+minor mistakes stay on my mind longer.,Negative,Anxiety,Low
+it's tuesday today.,Neutral,Neutral,'
+i wake up from nightmares drenched in sweat.,Negative,Fear,High
+my anger frightens even me sometimes.,Negative,Anger,High
+i feel like breaking things when angry.,Negative,Anger,High
+waiting in long lines frustrates me mildly.,Negative,Anger,Low
+i live in constant fear for my safety.,Negative,Fear,High
+i'm going through the motions of life.,Negative,Depression,Low
+it's tuesday today.,Neutral,Neutral,'
+i sometimes overthink small things.,Negative,Anxiety,Low
+the printer needs paper.,Neutral,Neutral,'
+caught up with a friend over video call. made my day!,Positive,Happy,'
+i feel disconnected from others.,Negative,Sad,Moderate
+i've lost relationships due to anger issues.,Negative,Anger,High
+i'm overwhelmed by sadness i can't shake.,Negative,Sad,High
+i feel detached from reality due to anxiety.,Negative,Anxiety,High
+every day feels the same and dull.,Negative,Depression,Low
+i worry about being rejected.,Negative,Fear,Moderate
+had a nice conversation with a friend today.,Positive,Happy,'
+i feel completely broken inside.,Negative,Sad,High
+i feel like i'm losing control completely.,Negative,Anxiety,High
+making phone calls stresses me out slightly.,Negative,Anxiety,Low
+i feel like a burden.,Negative,Sad,High
+i feel tense in social situations.,Negative,Anxiety,Low
+"i feel invisible, like no one would notice if i vanished.",Negative,Depression,High
+i feel like i'm just existing.,Negative,Depression,Low
+"i am here, but i don't feel alive.",Negative,Depression,High
+i feel completely broken inside.,Negative,Depression,High
+i'm somewhat afraid of spiders.,Negative,Fear,Low
+i feel unsafe in unfamiliar places.,Negative,Fear,Moderate
+i feel unsure before starting new tasks.,Negative,Anxiety,Low
+my whole body shakes before big decisions.,Negative,Anxiety,High
+everything feels right today.,Positive,Happy,'
+i feel nervous about new experiences.,Negative,Anxiety,Low
+i struggle to relax even after work.,Negative,Anxiety,Moderate
+there's a constant feeling of restlessness.,Negative,Anxiety,Moderate
+i feel consumed by unbearable pain.,Negative,Sad,High
+"made progress on my goals, feels amazing.",Positive,Happy,'
+i feel like i'm slowly fading from memory.,Negative,Depression,Moderate
+i feel uneasy when flying in planes.,Negative,Fear,Low
+i missed someone a lot today.,Negative,Sad,Moderate
+my thoughts feel heavy and hard to escape.,Negative,Depression,Moderate
+everything feels like it's falling apart.,Negative,Sad,High
+i'm constantly tired after a full night's sleep.,Negative,Depression,Low
+watched a feel-good movie. it lifted my spirits.,Positive,Happy,'
+listening to my favorite playlist and feeling good.,Positive,Happy,'
+i break down after intense outbursts.,Negative,Anger,High
+i wake up wishing i hadn't.,Negative,Depression,High
+had a nice conversation with a friend today.,Positive,Happy,'
+i'm feeling overwhelmed by sadness.,Negative,Sad,Moderate
+i feel emotionally tired.,Negative,Sad,Moderate
+this is the happiest i've felt in a long time!,Positive,Happy,'
+i'm gripped by paralyzing terror.,Negative,Fear,High
+i felt appreciated for the little things i did.,Positive,Happy,'
+i felt truly connected with people today.,Positive,Happy,'
+i feel a bit nervous before meetings.,Negative,Anxiety,Low
+"life feels meaningless, and i am just existing.",Negative,Depression,Moderate
+i am so proud of myself.,Positive,Happy,'
+i feel a bit nervous before meetings.,Negative,Anxiety,Low
+the package was delivered yesterday.,Neutral,Neutral,'
+messy spaces make me somewhat angry.,Negative,Anger,Low
+i feel consumed by uncontrollable rage.,Negative,Anger,High
+i feel slight tension before exams.,Negative,Anxiety,Low
+i raise my voice when disrespected.,Negative,Anger,Moderate
+i avoid dark alleys out of caution.,Negative,Fear,Low
+"the sun is out, and it feels nice to relax.",Positive,Happy,'
+this moment is perfect.,Positive,Happy,'
+got good feedback on something i worked hard on.,Positive,Happy,'
+enjoyed a quiet cup of coffee this morning.,Positive,Happy,'
+"made progress on my goals, feels amazing.",Positive,Happy,'
+i feel like i'm drowning in despair.,Negative,Depression,High
+i felt appreciated for the little things i did.,Positive,Happy,'
+i fear disappointing others.,Negative,Fear,Moderate
+i get frightened when people raise voices.,Negative,Fear,Moderate
+getting out of bed feels like a task.,Negative,Depression,Low
+i often fear losing control in situations.,Negative,Fear,Moderate
+i wish i could disappear.,Negative,Depression,High
+deadlines make my heart race frequently.,Negative,Anxiety,Moderate
+"had a pretty decent day today, can't complain.",Positive,Happy,'
+late responses irritate me a bit.,Negative,Anger,Low
+i'm slightly discouraged.,Negative,Sad,Low
+the store closes at 9 pm.,Neutral,Neutral,'
+i feel slightly annoyed when interrupted.,Negative,Anger,Low
+i feel uncomfortable in unfamiliar places.,Negative,Fear,Low
+i feel like a burden.,Negative,Sad,High
+this is the happiest i've felt in a long time!,Positive,Happy,'
+i feel emotionally numb.,Negative,Depression,Low
+i feel heated when my time is wasted.,Negative,Anger,Moderate
+"got a compliment at work, it made my day.",Positive,Happy,'
+i feel a bit anxious about heights.,Negative,Fear,Low
+uncertainty causes me noticeable distress.,Negative,Anxiety,Moderate
+i cry without knowing the exact reason.,Negative,Anxiety,High
+i feel tense in social situations.,Negative,Anxiety,Low
+i feel distant from everyone.,Negative,Sad,Moderate
+the weather is pleasant today.,Neutral,Neutral,'
+smiling feels forced and exhausting.,Negative,Depression,Moderate
+i am so proud of myself.,Positive,Happy,'
+"tried a new recipe, and it turned out okay!",Positive,Happy,'
+i am so proud of myself.,Positive,Happy,'
+i have violent thoughts during fits of rage.,Negative,Anger,High
+my thoughts feel heavy and endless.,Negative,Depression,Moderate
+i do not feel connected to anyone around me.,Negative,Depression,Moderate
+i completed a big task and feel accomplished.,Positive,Happy,'
+i feel a bit off today.,Negative,Sad,Low
+i felt truly connected with people today.,Positive,Happy,'
+i've lost relationships due to anger issues.,Negative,Anger,High
+deadlines make my heart race frequently.,Negative,Anxiety,Moderate
+i hesitate to make decisions due to fear.,Negative,Fear,Moderate
+traffic delays annoy me slightly.,Negative,Anger,Low
+it's tuesday today.,Neutral,Neutral,'
+the bus arrives every 15 minutes.,Neutral,Neutral,'
+enjoyed a quiet cup of coffee this morning.,Positive,Happy,'
+my hands get sweaty talking to strangers.,Negative,Anxiety,Moderate
+small mistakes make me a little angry.,Negative,Anger,Low
+i'm slightly worried about the future.,Negative,Fear,Low
+i fear stepping out of the house alone.,Negative,Fear,High
+i'm feeling somewhat melancholy.,Negative,Sad,Low
+the coffee is hot.,Neutral,Neutral,'
+i hurt myself when rage overtakes me.,Negative,Anger,High
+this moment is perfect.,Positive,Happy,'
+i have been feeling emotionally flat lately.,Negative,Depression,Low
+i feel a bit off today.,Negative,Sad,Low
+i fear being judged in new groups.,Negative,Fear,Moderate
+a small change in routine makes me uneasy.,Negative,Anxiety,Low
+i feel unsure before starting new tasks.,Negative,Anxiety,Low
+i feel unsure before starting new tasks.,Negative,Anxiety,Low
+i've been isolating myself more than usual.,Negative,Depression,Low
+"it's been a peaceful, uneventful day.",Positive,Happy,'
+i feel like i'm in constant danger.,Negative,Fear,High
+i feel slightly deflated.,Negative,Sad,Low
+every part of me wants to disappear.,Negative,Depression,High
+i can't stop smiling!,Positive,Happy,'
+i worry excessively about future events.,Negative,Anxiety,Moderate
+my thoughts spiral when i'm uncertain.,Negative,Anxiety,Moderate
+the phone is charging.,Neutral,Neutral,'
+i feel frustrated when ignored.,Negative,Anger,Moderate
+i felt truly connected with people today.,Positive,Happy,'
+i completed a big task and feel accomplished.,Positive,Happy,'
+i feel slightly disappointed.,Negative,Sad,Low
+i need to buy groceries.,Neutral,Neutral,'
+i wish i could disappear.,Negative,Depression,High
+my heart feels shattered beyond repair.,Negative,Sad,High
+i lack motivation for daily activities.,Negative,Depression,Low
+i feel a little gloomy.,Negative,Sad,Low
+woke up feeling positive and ready for the day.,Positive,Happy,'
+i fear being judged in new groups.,Negative,Fear,Moderate
+i feel slight tension before exams.,Negative,Anxiety,Low
+there are clouds in the sky.,Neutral,Neutral,'
+listening to my favorite playlist and feeling good.,Positive,Happy,'
+i feel like breaking things when angry.,Negative,Anger,High
+i get nervous watching horror movies.,Negative,Fear,Low
+i'm a bit emotional today.,Negative,Sad,Low
+i have been feeling emotionally flat lately.,Negative,Depression,Low
+i'm feeling a bit down today.,Negative,Sad,Low
+my mind is constantly battling itself.,Negative,Depression,Moderate
+The book is on the table.,Neutral,Neutral,'
+It is raining outside.,Neutral,Neutral,'
+She went to the store.,Neutral,Neutral,'
+The computer is turned off.,Neutral,Neutral,'
+The train arrived on time.,Neutral,Neutral,'
+He closed the door.,Neutral,Neutral,'
+I ate lunch at noon.,Neutral,Neutral,'
+There are three pens in the drawer.,Neutral,Neutral,'
+The meeting starts at 10 a.m.,Neutral,Neutral,'
+The room has two windows.,Neutral,Neutral,'
+Water boils at 100 degrees Celsius.,Neutral,Neutral,'
+They walked to the park.,Neutral,Neutral,'
+He sent an email.,Neutral,Neutral,'
+The dog is sitting.,Neutral,Neutral,'
+The sky is overcast.,Neutral,Neutral,'
+I took a bus to work.,Neutral,Neutral,'
+The phone battery is at 50%.,Neutral,Neutral,'
+There is a file on the desktop.,Neutral,Neutral,'
+I folded the laundry.,Neutral,Neutral,'
+The door was locked.,Neutral,Neutral,'
+The light turned green.,Neutral,Neutral,'
+She wrote her name.,Neutral,Neutral,'
+I drank a glass of water.,Neutral,Neutral,'
+The printer is out of paper.,Neutral,Neutral,'
+They watched the news.,Neutral,Neutral,'
+The clock struck 3 p.m.,Neutral,Neutral,'
+He opened the window.,Neutral,Neutral,'
+I received a message.,Neutral,Neutral,'
+The power went out briefly.,Neutral,Neutral,'
+She is wearing a blue dress.,Neutral,Neutral,'
+The street was quiet.,Neutral,Neutral,'
+They arrived yesterday.,Neutral,Neutral,'
+I took a photo.,Neutral,Neutral,'
+The machine was turned on.,Neutral,Neutral,'
+The keys are on the counter.,Neutral,Neutral,'
+He looked at the screen.,Neutral,Neutral,'
+The leaves are green.,Neutral,Neutral,'
+I walked down the hallway.,Neutral,Neutral,'
+She made a phone call.,Neutral,Neutral,'
+The wall is painted white.,Neutral,Neutral,'
+They read a newspaper.,Neutral,Neutral,'
+The package was delivered.,Neutral,Neutral,'
+The car stopped at the signal.,Neutral,Neutral,'
+I set an alarm.,Neutral,Neutral,'
+The file was saved.,Neutral,Neutral,'
+It’s Tuesday today.,Neutral,Neutral,'
+She opened the book.,Neutral,Neutral,'
+The water bottle is empty.,Neutral,Neutral,'
+The microwave beeped.,Neutral,Neutral,'
+They are in the living room.,Neutral,Neutral,'
+The ceiling fan is spinning.,Neutral,Neutral,'
+I turned off the TV.,Neutral,Neutral,'
+The lamp is on the desk.,Neutral,Neutral,'
+He typed on the keyboard.,Neutral,Neutral,'
+The road is straight.,Neutral,Neutral,'
+I switched off the light.,Neutral,Neutral,'
+The app is running.,Neutral,Neutral,'
+It’s 22 degrees outside.,Neutral,Neutral,'
+The doorbell rang.,Neutral,Neutral,'
+She checked the calendar.,Neutral,Neutral,'
+I wore a jacket.,Neutral,Neutral,'
+The curtain is open.,Neutral,Neutral,'
+He opened the fridge.,Neutral,Neutral,'
+The cup is on the shelf.,Neutral,Neutral,'
+I clicked the link.,Neutral,Neutral,'
+The battery is charging.,Neutral,Neutral,'
+The fan is noisy.,Neutral,Neutral,'
+The notebook is full.,Neutral,Neutral,'
+They filled the form.,Neutral,Neutral,'
+The cup is empty.,Neutral,Neutral,'
+The taxi arrived.,Neutral,Neutral,'
+The bin is in the corner.,Neutral,Neutral,'
+The lights are on.,Neutral,Neutral,'
+She shut the laptop.,Neutral,Neutral,'
+I parked the car.,Neutral,Neutral,'
+The switch is off.,Neutral,Neutral,'
+The chair is wooden.,Neutral,Neutral,'
+The pencil is broken.,Neutral,Neutral,'
+The floor is clean.,Neutral,Neutral,'
+I picked up the envelope.,Neutral,Neutral,'
+They left the house.,Neutral,Neutral,'
+The sink is full.,Neutral,Neutral,'
+The glass broke.,Neutral,Neutral,'
+The sun set at 6:45.,Neutral,Neutral,'
+The notebook is on the desk.,Neutral,Neutral,'
+The plant needs water.,Neutral,Neutral,'
+The alarm rang at 6 a.m.,Neutral,Neutral,'
+He moved the table.,Neutral,Neutral,'
+The stairs are steep.,Neutral,Neutral,'
+The air conditioner is on.,Neutral,Neutral,'
+I opened the drawer.,Neutral,Neutral,'
+The towel is wet.,Neutral,Neutral,'
+They locked the gate.,Neutral,Neutral,'
+The soup is warm.,Neutral,Neutral,'
+I turned down the volume.,Neutral,Neutral,'
+The road was clear.,Neutral,Neutral,'
+She turned the page.,Neutral,Neutral,'
+The bottle fell.,Neutral,Neutral,'
+I set the timer.,Neutral,Neutral,'
+The desk is cluttered.,Neutral,Neutral,'
+The music stopped.,Neutral,Neutral,'
+The board is blank.,Neutral,Neutral,'
+The wall has a crack.,Neutral,Neutral,'
+The calendar shows July.,Neutral,Neutral,'
+The screen is black.,Neutral,Neutral,'
+I checked the time.,Neutral,Neutral,'
+The drawer is closed.,Neutral,Neutral,'
+The notebook was opened.,Neutral,Neutral,'
+The bench is wooden.,Neutral,Neutral,'
+The light flickered.,Neutral,Neutral,'
+He looked out the window.,Neutral,Neutral,'
+The table is square.,Neutral,Neutral,'
+I put the phone down.,Neutral,Neutral,'
+The glass is half full.,Neutral,Neutral,'
+She tied her hair.,Neutral,Neutral,'
+They sat in silence.,Neutral,Neutral,'
+The chair is near the door.,Neutral,Neutral,'
+The shoes are under the bed.,Neutral,Neutral,'
+The sink is stainless steel.,Neutral,Neutral,'
+The wall clock is ticking.,Neutral,Neutral,'
+He pushed the button.,Neutral,Neutral,'
+The fridge is humming.,Neutral,Neutral,'
+She adjusted the mirror.,Neutral,Neutral,'
+I switched the channel.,Neutral,Neutral,'
+The carpet is soft.,Neutral,Neutral,'
+The newspaper is folded.,Neutral,Neutral,'
+The floor lamp is tall.,Neutral,Neutral,'
+The shoes are dry.,Neutral,Neutral,'
+The mug is on the counter.,Neutral,Neutral,'
+The pen is uncapped.,Neutral,Neutral,'
+I erased the board.,Neutral,Neutral,'
+The frame is hanging.,Neutral,Neutral,'
+He zipped his bag.,Neutral,Neutral,'
+The basket is empty.,Neutral,Neutral,'
+The whiteboard is clean.,Neutral,Neutral,'
+I closed the blinds.,Neutral,Neutral,'
+The radio is on.,Neutral,Neutral,'
+She answered the phone.,Neutral,Neutral,'
+They crossed the street.,Neutral,Neutral,'
+The bed is made.,Neutral,Neutral,'
+I placed it on the table.,Neutral,Neutral,'
+The button is loose.,Neutral,Neutral,'
+The curtain is blue.,Neutral,Neutral,'
+The shelf is full.,Neutral,Neutral,'
+She picked up the folder.,Neutral,Neutral,'
+He dropped the coin.,Neutral,Neutral,'
+The water is cold.,Neutral,Neutral,'
+The engine stopped.,Neutral,Neutral,'
+The flag is waving.,Neutral,Neutral,'
+The envelope is sealed.,Neutral,Neutral,'
+The map is on the wall.,Neutral,Neutral,'
+I added salt.,Neutral,Neutral,'
+The file is open.,Neutral,Neutral,'
+The stairs are narrow.,Neutral,Neutral,'
+The keys are missing.,Neutral,Neutral,'
+She wore glasses.,Neutral,Neutral,'
+He grabbed the notebook.,Neutral,Neutral,'
+The door creaked.,Neutral,Neutral,'
+The sink is clogged.,Neutral,Neutral,'
+The box is taped shut.,Neutral,Neutral,'
+The clock needs a battery.,Neutral,Neutral,'
+She drew a circle.,Neutral,Neutral,'
+The book has a red cover.,Neutral,Neutral,'
+The stapler is jammed.,Neutral,Neutral,'
+The ceiling is high.,Neutral,Neutral,'
+The screen is dusty.,Neutral,Neutral,'
+He plugged in the charger.,Neutral,Neutral,'
+The bin is full.,Neutral,Neutral,'
+The soap is slippery.,Neutral,Neutral,'
+The weather is cloudy.,Neutral,Neutral,'
+The room is dark.,Neutral,Neutral,'
+The paint is dry.,Neutral,Neutral,'
+The drawer stuck.,Neutral,Neutral,'
+I opened the window.,Neutral,Neutral,'
+She logged in.,Neutral,Neutral,'
+The sign says “Open”.,Neutral,Neutral,'
+The camera has a flash.,Neutral,Neutral,'
+I turned the page.,Neutral,Neutral,'
+The cord is short.,Neutral,Neutral,'
+The pillow is soft.,Neutral,Neutral,'
+The frame is crooked.,Neutral,Neutral,'
+The floor squeaked.,Neutral,Neutral,'
+He changed the setting.,Neutral,Neutral,'
+The mirror is foggy.,Neutral,Neutral,'
+The box is under the bed.,Neutral,Neutral,'
+I checked the mailbox.,Neutral,Neutral,'
+The gate is closed.,Neutral,Neutral,'
+The plug is loose.,Neutral,Neutral,'
+The device is charging.,Neutral,Neutral,'
+The app crashed.,Neutral,Neutral,'
+I wiped the table.,Neutral,Neutral,'
+The blinds are drawn.,Neutral,Neutral,'
+She marked the date.,Neutral,Neutral,'
+He moved the chair.,Neutral,Neutral,'
+The clock shows 12:15.,Neutral,Neutral,'
+The buttons are missing.,Neutral,Neutral,'
+The table wobbles.,Neutral,Neutral,'
+The switch is broken.,Neutral,Neutral,'
+She closed the lid.,Neutral,Neutral,'
+The pencil has no eraser.,Neutral,Neutral,'
+The towel is folded.,Neutral,Neutral,'
+I filled the bottle.,Neutral,Neutral,'
+The soap dispenser is empty.,Neutral,Neutral,'
+She opened the umbrella.,Neutral,Neutral,'
+He unzipped the pouch.,Neutral,Neutral,'
+The hallway leads to the kitchen.,Neutral,Neutral,'
+The toolbox is under the sink.,Neutral,Neutral,'
+He inserted the key into the lock.,Neutral,Neutral,'
+She placed the book beside the lamp.,Neutral,Neutral,'
+The thermostat is set to 24 degrees.,Neutral,Neutral,'
+The socket has no power.,Neutral,Neutral,'
+I stored the box in the attic.,Neutral,Neutral,'
+The windshield has a crack.,Neutral,Neutral,'
+The shoes are lined up neatly.,Neutral,Neutral,'
+The calculator is on the shelf.,Neutral,Neutral,'
+She highlighted the paragraph.,Neutral,Neutral,'
+The wires are tangled.,Neutral,Neutral,'
+He printed the document.,Neutral,Neutral,'
+The poster is pinned on the wall.,Neutral,Neutral,'
+The mouse is next to the keyboard.,Neutral,Neutral,'
+She entered the building.,Neutral,Neutral,'
+The cushion is missing from the chair.,Neutral,Neutral,'
+The receipt is in the drawer.,Neutral,Neutral,'
+The dish is in the oven.,Neutral,Neutral,'
+He arranged the files alphabetically.,Neutral,Neutral,'
+The modem is not blinking.,Neutral,Neutral,'
+The eraser rolled off the desk.,Neutral,Neutral,'
+The window is slightly open.,Neutral,Neutral,'
+She turned on the ceiling light.,Neutral,Neutral,'
+The hammer is in the toolbox.,Neutral,Neutral,'
+The thermostat reset itself.,Neutral,Neutral,'
+He placed the coins in a jar.,Neutral,Neutral,'
+The board has grid lines.,Neutral,Neutral,'
+The notebook contains five chapters.,Neutral,Neutral,'
+The tape is stuck to the floor.,Neutral,Neutral,'
+The shoes squeaked on the tiles.,Neutral,Neutral,'
+The screen shows an error code.,Neutral,Neutral,'
+She traced the outline with a pen.,Neutral,Neutral,'
+The rug was vacuumed yesterday.,Neutral,Neutral,'
+The webcam is facing the wrong way.,Neutral,Neutral,'
+I updated the software today.,Neutral,Neutral,'
+The box contains kitchen supplies.,Neutral,Neutral,'
+She wrote her schedule on the whiteboard.,Neutral,Neutral,'
+He downloaded the report.,Neutral,Neutral,'
+The ladder is leaning on the wall.,Neutral,Neutral,'
+The desk drawer is locked.,Neutral,Neutral,'
+The power button is unresponsive.,Neutral,Neutral,'
+The ID card is clipped to the lanyard.,Neutral,Neutral,'
+The toolbox contains several wrenches.,Neutral,Neutral,'
+She scanned the barcode twice.,Neutral,Neutral,'
+The drawer slides smoothly now.,Neutral,Neutral,'
+The vending machine is empty.,Neutral,Neutral,'
+He turned the valve clockwise.,Neutral,Neutral,'
+The cardboard is folded neatly.,Neutral,Neutral,'
+The speaker is muted.,Neutral,Neutral,'
+The hallway light was flickering.,Neutral,Neutral,'
+The hose is rolled up.,Neutral,Neutral,'
+The basket is made of bamboo.,Neutral,Neutral,'
+She added the number to her contact list.,Neutral,Neutral,'
+The curtains are drawn shut.,Neutral,Neutral,'
+He aligned the tiles evenly.,Neutral,Neutral,'
+The water filter needs replacing.,Neutral,Neutral,'
+The blinds are half open.,Neutral,Neutral,'
+The stapler is on the top shelf.,Neutral,Neutral,'
+She checked her reflection in the mirror.,Neutral,Neutral,'
+The package is labeled correctly.,Neutral,Neutral,'
+He stuck a note on the refrigerator.,Neutral,Neutral,'
+The batteries are arranged in a box.,Neutral,Neutral,'
+The lens cap is on the camera.,Neutral,Neutral,'
+The measuring tape is extended.,Neutral,Neutral,'
+The air vent is dusty.,Neutral,Neutral,'
+She pushed the drawer gently.,Neutral,Neutral,'
+The cable runs behind the cabinet.,Neutral,Neutral,'
+The projector is warming up.,Neutral,Neutral,'
+The notepad is spiral-bound.,Neutral,Neutral,'
+The phone is set to silent mode.,Neutral,Neutral,'
+The laundry basket is full.,Neutral,Neutral,'
+The iron is cooling down.,Neutral,Neutral,'
+He downloaded the latest update.,Neutral,Neutral,'
+The cork is inside the bottle.,Neutral,Neutral,'
+The plastic container is cracked.,Neutral,Neutral,'
+The water dispenser is working.,Neutral,Neutral,'
+The tiles were just cleaned.,Neutral,Neutral,'
+The keyboard is wireless.,Neutral,Neutral,'
+The router is blinking slowly.,Neutral,Neutral,'
+He rolled up the blueprint.,Neutral,Neutral,'
+The charger is on the nightstand.,Neutral,Neutral,'
+She aligned the papers perfectly.,Neutral,Neutral,'
+The screw fell on the floor.,Neutral,Neutral,'
+The machine is set to automatic mode.,Neutral,Neutral,'
+The disk is scratched.,Neutral,Neutral,'
+The notepad has colored pages.,Neutral,Neutral,'
+The cord is looped around the hook.,Neutral,Neutral,'
+The plug is under the table.,Neutral,Neutral,'
+She labeled all the folders.,Neutral,Neutral,'
+The graph is missing a title.,Neutral,Neutral,'
+The drawer is slightly ajar.,Neutral,Neutral,'
+The corded phone is dusty.,Neutral,Neutral,'
+The plug socket is behind the cabinet.,Neutral,Neutral,'
+The bin lid is slightly open.,Neutral,Neutral,'
+The poster curled at the edges.,Neutral,Neutral,'
+The scanner is out of paper.,Neutral,Neutral,'
+The desk has four drawers.,Neutral,Neutral,'
+The power strip is overloaded.,Neutral,Neutral,'
+The circuit breaker is on.,Neutral,Neutral,'
+The hammer handle is wooden.,Neutral,Neutral,'
+The whiteboard marker is drying out.,Neutral,Neutral,'
+The wires run beneath the carpet.,Neutral,Neutral,'
+The level shows the surface is uneven.,Neutral,Neutral,'
+The toolkit is missing a screwdriver.,Neutral,Neutral,'
+The network cable is unplugged.,Neutral,Neutral,'
+The outlet is on the right wall.,Neutral,Neutral,'
+The paper is jammed in the tray.,Neutral,Neutral,'
+The curtains are partially open.,Neutral,Neutral,'
+The mug has a chipped rim.,Neutral,Neutral,'
+He adjusted the tripod legs.,Neutral,Neutral,'
+The receipt printer is connected.,Neutral,Neutral,'
+She organized the bookshelf by genre.,Neutral,Neutral,'
+The clipboard has a metal clip.,Neutral,Neutral,'
+The case has a numeric lock.,Neutral,Neutral,'
+The packaging is made of cardboard.,Neutral,Neutral,'
+The label is peeling off.,Neutral,Neutral,'
+The cupholder is fixed to the armrest.,Neutral,Neutral,'
+The button on the remote is stuck.,Neutral,Neutral,'
+The handle is slightly bent.,Neutral,Neutral,'
+The template has blank spaces.,Neutral,Neutral,'
+The broom is leaning in the corner.,Neutral,Neutral,'
+The laundry is in the washing machine.,Neutral,Neutral,'
+The stapler needs more staples.,Neutral,Neutral,'
+The fabric is folded on the table.,Neutral,Neutral,'
+The device shows a low battery warning.,Neutral,Neutral,'
+The bracket is mounted on the wall.,Neutral,Neutral,'
+The label printer is out of ink.,Neutral,Neutral,'
+The screen is smudged.,Neutral,Neutral,'
+The knob is loose.,Neutral,Neutral,'
+She archived the old reports.,Neutral,Neutral,'
+The screw is rusted.,Neutral,Neutral,'
+The marker stains are permanent.,Neutral,Neutral,'
+He replaced the water cartridge.,Neutral,Neutral,'
+The magnets are stuck on the fridge.,Neutral,Neutral,'
+The hinges are creaking.,Neutral,Neutral,'
+The board edges are fraying.,Neutral,Neutral,'
+The shoelace is tied in a knot.,Neutral,Neutral,'
+The locker is numbered 21.,Neutral,Neutral,'
+The mousepad is made of foam.,Neutral,Neutral,'
+The vent is above the window.,Neutral,Neutral,'
+The shelves are adjustable.,Neutral,Neutral,'
+The chair wheel is broken.,Neutral,Neutral,'
+The ladder has five steps.,Neutral,Neutral,'
+She tapped the microphone.,Neutral,Neutral,'
+The TV is mounted on the wall.,Neutral,Neutral,'
+The folder is in the filing cabinet.,Neutral,Neutral,'
+The binder has 3 rings.,Neutral,Neutral,'
+The USB drive is missing.,Neutral,Neutral,'
+The projector casts a large image.,Neutral,Neutral,'
+The floor tile is loose.,Neutral,Neutral,'
+The chalkboard has faint writing.,Neutral,Neutral,'
+The divider separates the cubicles.,Neutral,Neutral,'
+The glass door is transparent.,Neutral,Neutral,'
+The jacket hangs on the hook.,Neutral,Neutral,'
+The freezer is full of ice.,Neutral,Neutral,'
+He shook the spray can.,Neutral,Neutral,'
+The instruction manual is under the box.,Neutral,Neutral,'
+The hinges are made of brass.,Neutral,Neutral,'
+The gate opens inward.,Neutral,Neutral,'
+The carpet edges are taped down.,Neutral,Neutral,'
+The drill is powered by battery.,Neutral,Neutral,'
+The packing tape is on the dispenser.,Neutral,Neutral,'
+The digital clock has no backlight.,Neutral,Neutral,'
+The clipboard has a checklist attached.,Neutral,Neutral,'
+She switched the fan speed.,Neutral,Neutral,'
+The box cutter is on the shelf.,Neutral,Neutral,'
+The light bulb is LED.,Neutral,Neutral,'
+The display stand is empty.,Neutral,Neutral,'
+The keyboard tray is extended.,Neutral,Neutral,'
+The floorboard creaks when stepped on.,Neutral,Neutral,'
+The vacuum cleaner is stored upright.,Neutral,Neutral,'
+The blinds are partially raised.,Neutral,Neutral,'
+The tags are attached to the items.,Neutral,Neutral,'
+The doormat is rectangular.,Neutral,Neutral,'
+The outlet cover is missing.,Neutral,Neutral,'
+The keypad has worn-out numbers.,Neutral,Neutral,'
+The cable ties are unused.,Neutral,Neutral,'
+The lamp shade is conical.,Neutral,Neutral,'
+The timer is counting down.,Neutral,Neutral,'
+The hooks are lined on the wall.,Neutral,Neutral,'
+The refrigerator light is off.,Neutral,Neutral,'
+The folder tabs are color-coded.,Neutral,Neutral,'
+The switchboard is labeled.,Neutral,Neutral,'
+The chair cushion is flat.,Neutral,Neutral,'
+The counter is made of granite.,Neutral,Neutral,'
+The rack holds five trays.,Neutral,Neutral,'
+The mat is rolled up in the corner.,Neutral,Neutral,'
+The package tracking number is printed.,Neutral,Neutral,'
+The towel rack is loose.,Neutral,Neutral,'
+The battery compartment is open.,Neutral,Neutral,'
+The keychain has four keys.,Neutral,Neutral,'
+The screwdriver handle is red.,Neutral,Neutral,'
+The circuit board is exposed.,Neutral,Neutral,'
+The packaging tape is clear.,Neutral,Neutral,'
+The webcam light is on.,Neutral,Neutral,'
+The tripod head is adjustable.,Neutral,Neutral,'
+The drawer liner is patterned.,Neutral,Neutral,'
+The tablecloth is folded.,Neutral,Neutral,'
+The heater is plugged in.,Neutral,Neutral,'
+The paperweight is round.,Neutral,Neutral,'
+The pencil marks are visible.,Neutral,Neutral,'
+The binder clip is on the corner.,Neutral,Neutral,'
+What time does the train arrive?,Neutral,Neutral,'
+Where is the meeting being held?,Neutral,Neutral,'
+How many pages are in the book?,Neutral,Neutral,'
+Is the door open or closed?,Neutral,Neutral,'
+When did the event start?,Neutral,Neutral,'
+Who submitted the report?,Neutral,Neutral,'
+Which file is the latest version?,Neutral,Neutral,'
+Is the printer connected?,Neutral,Neutral,'
+Where are the extra chairs kept?,Neutral,Neutral,'
+How long is the presentation?,Neutral,Neutral,'
+Did you receive the message?,Neutral,Neutral,'
+What is the temperature today?,Neutral,Neutral,'
+Is the light turned on?,Neutral,Neutral,'
+Where is the nearest exit?,Neutral,Neutral,'
+How many keys are on the ring?,Neutral,Neutral,'
+What day is the appointment?,Neutral,Neutral,'
+Is the projector working?,Neutral,Neutral,'
+What is written on the board?,Neutral,Neutral,'
+Which cable is for charging?,Neutral,Neutral,'
+Is the app installed already?,Neutral,Neutral,'
+Where is the file saved?,Neutral,Neutral,'
+How many pens are in the drawer?,Neutral,Neutral,'
+What floor is the office on?,Neutral,Neutral,'
+Did the package arrive yet?,Neutral,Neutral,'
+Who scheduled the meeting?,Neutral,Neutral,'
+Is the battery fully charged?,Neutral,Neutral,'
+What room is this?,Neutral,Neutral,'
+Is the sink clean?,Neutral,Neutral,'
+Where is the remote kept?,Neutral,Neutral,'
+How tall is the cabinet?,Neutral,Neutral,'
+Is the drawer locked?,Neutral,Neutral,'
+What label is on the box?,Neutral,Neutral,'
+How many folders are missing?,Neutral,Neutral,'
+Is the phone on silent?,Neutral,Neutral,'
+Which light is flickering?,Neutral,Neutral,'
+Did she mark the calendar?,Neutral,Neutral,'
+What brand is the keyboard?,Neutral,Neutral,'
+How long is the cable?,Neutral,Neutral,'
+What time is on the wall clock?,Neutral,Neutral,'
+Are the blinds open?,Neutral,Neutral,'
+Where are the spare batteries?,Neutral,Neutral,'
+Is the doorbell working?,Neutral,Neutral,'
+How far is the next stop?,Neutral,Neutral,'
+Did he print the document?,Neutral,Neutral,'
+What channel is the TV on?,Neutral,Neutral,'
+Are the windows closed?,Neutral,Neutral,'
+Which file needs updating?,Neutral,Neutral,'
+Is the stapler on the desk?,Neutral,Neutral,'
+How many chairs are in the room?,Neutral,Neutral,'
+When was the last update?,Neutral,Neutral,'
+Is the room occupied?,Neutral,Neutral,'
+What setting is the fan on?,Neutral,Neutral,'
+Are the files sorted?,Neutral,Neutral,'
+Who locked the cabinet?,Neutral,Neutral,'
+Is the fridge empty?,Neutral,Neutral,'
+What color is the marker?,Neutral,Neutral,'
+Is the air conditioner on?,Neutral,Neutral,'
+Which button resets the device?,Neutral,Neutral,'
+Where is the notebook kept?,Neutral,Neutral,'
+Did the light go off?,Neutral,Neutral,'
+How wide is the table?,Neutral,Neutral,'
+What is the file size?,Neutral,Neutral,'
+Are the wires disconnected?,Neutral,Neutral,'
+Who turned off the monitor?,Neutral,Neutral,'
+When did the call come in?,Neutral,Neutral,'
+Which shelf is broken?,Neutral,Neutral,'
+Are the folders labeled?,Neutral,Neutral,'
+Did the modem restart?,Neutral,Neutral,'
+Where is the charger?,Neutral,Neutral,'
+Is the app crashing again?,Neutral,Neutral,'
+What is the Wi-Fi name?,Neutral,Neutral,'
+Who added this entry?,Neutral,Neutral,'
+Is the water bottle full?,Neutral,Neutral,'
+How old is this device?,Neutral,Neutral,'
+What is the document format?,Neutral,Neutral,'
+Did the message send?,Neutral,Neutral,'
+Which drawer has the papers?,Neutral,Neutral,'
+Where is the login info?,Neutral,Neutral,'
+Is the system offline?,Neutral,Neutral,'
+How bright is the screen?,Neutral,Neutral,'
+Did you check the outlets?,Neutral,Neutral,'
+Is the sensor working?,Neutral,Neutral,'
+What’s written on the label?,Neutral,Neutral,'
+Which port is used?,Neutral,Neutral,'
+Is the clock showing the right time?,Neutral,Neutral,'
+Are the pens capped?,Neutral,Neutral,'
+Where is the tool kit?,Neutral,Neutral,'
+Is this screen touch-enabled?,Neutral,Neutral,'
+What version is the software?,Neutral,Neutral,'
+Did the folder get moved?,Neutral,Neutral,'
+What’s stored in this cabinet?,Neutral,Neutral,'
+Is the plug socket working?,Neutral,Neutral,'
+Where is the main switch?,Neutral,Neutral,'
+How many tabs are open?,Neutral,Neutral,'
+Did he clear the clipboard?,Neutral,Neutral,'
+What tool is missing?,Neutral,Neutral,'
+Is the table adjustable?,Neutral,Neutral,'
+Are the magnets aligned?,Neutral,Neutral,'
+Which button is for power?,Neutral,Neutral,'
+How many emails are unread?,Neutral,Neutral,'
+I felt a surge of joy as the sunlight kissed my face.,Positive,Happy,'
+Her radiant smile lit up the entire room.,Positive,Happy,'
+We celebrated the moment with pure delight.,Positive,Happy,'
+The aroma of fresh pastries made my morning blissful.,Positive,Happy,'
+He was elated to receive the long-awaited letter.,Positive,Happy,'
+The music filled our hearts with exuberance.,Positive,Happy,'
+She glowed with pride after her performance.,Positive,Happy,'
+Laughter echoed through the garden like music.,Positive,Happy,'
+The sky painted a picture of serenity and hope.,Positive,Happy,'
+I was enchanted by the warmth of their welcome.,Positive,Happy,'
+Her graceful movements brought joy to the audience.,Positive,Happy,'
+The day began with a cheerful melody from the birds.,Positive,Happy,'
+I felt immensely grateful for the little moments.,Positive,Happy,'
+He grinned with uncontainable excitement.,Positive,Happy,'
+Our hearts danced to the rhythm of happiness.,Positive,Happy,'
+She sparkled with confidence during her speech.,Positive,Happy,'
+The picnic by the lake was utterly delightful.,Positive,Happy,'
+Their reunion was full of heartwarming embraces.,Positive,Happy,'
+The sight of blooming flowers lifted my spirit.,Positive,Happy,'
+We toasted to new beginnings with gleeful cheers.,Positive,Happy,'
+The room buzzed with contagious enthusiasm.,Positive,Happy,'
+His cheerful banter brightened everyone's day.,Positive,Happy,'
+The party overflowed with jubilant energy.,Positive,Happy,'
+Her eyes twinkled with sincere happiness.,Positive,Happy,'
+The weekend getaway was absolutely rejuvenating.,Positive,Happy,'
+I walked with a spring in my step.,Positive,Happy,'
+The concert left us in euphoric awe.,Positive,Happy,'
+Their laughter created a symphony of joy.,Positive,Happy,'
+She beamed with delight at the surprise gift.,Positive,Happy,'
+The puppy’s playful nature brought us cheer.,Positive,Happy,'
+The warmth of friendship filled the air.,Positive,Happy,'
+The painting evoked a serene kind of joy.,Positive,Happy,'
+"He burst into laughter, carefree and loud.",Positive,Happy,'
+The ocean breeze made me feel blissfully alive.,Positive,Happy,'
+She radiated joy like the morning sun.,Positive,Happy,'
+The children played with unfiltered glee.,Positive,Happy,'
+I was enveloped in a moment of pure peace.,Positive,Happy,'
+The aroma of coffee stirred a cozy happiness.,Positive,Happy,'
+Their kindness filled me with warmth.,Positive,Happy,'
+His voice carried a melody of joy.,Positive,Happy,'
+I woke up feeling hopeful and bright.,Positive,Happy,'
+The scenery took our breath away in delight.,Positive,Happy,'
+Her words comforted me like a warm blanket.,Positive,Happy,'
+We danced under the stars in blissful freedom.,Positive,Happy,'
+The news brought tears of happiness.,Positive,Happy,'
+He sang with an infectious zest for life.,Positive,Happy,'
+The joy of discovery made the journey magical.,Positive,Happy,'
+Their compliments made her cheeks flush with pride.,Positive,Happy,'
+The festive lights sparkled like joy itself.,Positive,Happy,'
+We shared a laugh that echoed for hours.,Positive,Happy,'
+The room was lit with vibrant positivity.,Positive,Happy,'
+She skipped with uncontainable glee.,Positive,Happy,'
+The moment was sweetly unforgettable.,Positive,Happy,'
+His heart swelled with pride.,Positive,Happy,'
+The gentle breeze carried laughter through the trees.,Positive,Happy,'
+I felt as light as a feather with joy.,Positive,Happy,'
+The sunset whispered peace to my soul.,Positive,Happy,'
+They clapped in wholehearted appreciation.,Positive,Happy,'
+The baby’s giggle was a melody of delight.,Positive,Happy,'
+I danced like no one was watching.,Positive,Happy,'
+The atmosphere brimmed with pure celebration.,Positive,Happy,'
+Her words were honey to my ears.,Positive,Happy,'
+The reunion was filled with joyful nostalgia.,Positive,Happy,'
+He hummed a tune of contentment.,Positive,Happy,'
+We basked in the comfort of togetherness.,Positive,Happy,'
+The warmth of the fire matched our hearts.,Positive,Happy,'
+Their surprise made me laugh with glee.,Positive,Happy,'
+The field of daisies was a happy sight.,Positive,Happy,'
+She sparkled with joy like the stars above.,Positive,Happy,'
+The compliments rained down like confetti.,Positive,Happy,'
+I twirled in my new dress with joy.,Positive,Happy,'
+Their success felt like a personal victory.,Positive,Happy,'
+His kindness wrapped me in warmth.,Positive,Happy,'
+The cake tasted like a slice of heaven.,Positive,Happy,'
+Her cheerful energy was beautifully infectious.,Positive,Happy,'
+The orchestra played a rhapsody of joy.,Positive,Happy,'
+"We wandered the city, carefree and smiling.",Positive,Happy,'
+The air was scented with hope and happiness.,Positive,Happy,'
+She leapt for joy without hesitation.,Positive,Happy,'
+The note brought a smile to my soul.,Positive,Happy,'
+His jokes sparked a wave of laughter.,Positive,Happy,'
+The air shimmered with good vibes.,Positive,Happy,'
+The gift was a token of heartfelt affection.,Positive,Happy,'
+I felt joy bubbling inside me.,Positive,Happy,'
+Their hugs were the definition of comfort.,Positive,Happy,'
+The compliments were music to her ears.,Positive,Happy,'
+"A rainbow arched across the sky, perfect and bright.",Positive,Happy,'
+He celebrated his win with joyful abandon.,Positive,Happy,'
+The flowers danced in the spring breeze.,Positive,Happy,'
+Her heart overflowed with happiness.,Positive,Happy,'
+The book filled my heart with warmth.,Positive,Happy,'
+We painted with colors of excitement.,Positive,Happy,'
+The stars blinked down on our celebration.,Positive,Happy,'
+The cat purred with peaceful delight.,Positive,Happy,'
+The holiday was refreshingly joyful.,Positive,Happy,'
+The morning air smelled like new beginnings.,Positive,Happy,'
+He spoke with vibrant enthusiasm.,Positive,Happy,'
+The hall was alive with cheer and music.,Positive,Happy,'
+She smiled like she had a thousand suns in her chest.,Positive,Happy,'
+I felt pure bliss in that tiny moment.,Positive,Happy,'
+The sound of applause filled the room with joy.,Positive,Happy,'
+Her joy was as bright as a midsummer morning.,Positive,Happy,'
+They celebrated their success with a sparkle in their eyes.,Positive,Happy,'
+The warmth of the sun mirrored the warmth in my heart.,Positive,Happy,'
+He danced through the hallway with giddy energy.,Positive,Happy,'
+The scent of jasmine made me feel alive and joyful.,Positive,Happy,'
+The baby’s first steps brought cheers and laughter.,Positive,Happy,'
+A gentle breeze brushed against my happy thoughts.,Positive,Happy,'
+The family reunion was soaked in smiles and stories.,Positive,Happy,'
+We strolled through the garden with hearts at peace.,Positive,Happy,'
+Her laughter rang like silver bells.,Positive,Happy,'
+The lights shimmered like dreams come true.,Positive,Happy,'
+I sipped my tea with quiet contentment.,Positive,Happy,'
+The puppy wagged its tail with boundless delight.,Positive,Happy,'
+The photo captured a moment of pure happiness.,Positive,Happy,'
+The children’s voices were filled with innocent excitement.,Positive,Happy,'
+"He beamed at the compliment, glowing with pride.",Positive,Happy,'
+She hummed a happy tune without a care.,Positive,Happy,'
+The festival was a burst of joy and color.,Positive,Happy,'
+The sunrise welcomed the day with golden optimism.,Positive,Happy,'
+"We lingered at the cafe, wrapped in warm conversation.",Positive,Happy,'
+Their performance received thunderous applause and joy.,Positive,Happy,'
+"I skipped along the path, light as air.",Positive,Happy,'
+The announcement was met with gleeful cheers.,Positive,Happy,'
+"She danced barefoot in the rain, radiant with happiness.",Positive,Happy,'
+He grinned like a kid on Christmas morning.,Positive,Happy,'
+The fireworks painted the sky with celebration.,Positive,Happy,'
+The picnic blanket was spread under a cheerful sun.,Positive,Happy,'
+She opened the gift and squealed with excitement.,Positive,Happy,'
+His eyes sparkled when he saw the surprise.,Positive,Happy,'
+The birthday cake was a masterpiece of joy.,Positive,Happy,'
+The room filled with warm hugs and kind words.,Positive,Happy,'
+The snowflakes danced like playful fairies.,Positive,Happy,'
+She smiled through her tears of joy.,Positive,Happy,'
+He recited the poem with glowing confidence.,Positive,Happy,'
+The letter brought news that lit up my day.,Positive,Happy,'
+The birds sang in perfect harmony with our mood.,Positive,Happy,'
+"She twirled in her new outfit, giddy with pride.",Positive,Happy,'
+The air was filled with the scent of fresh possibilities.,Positive,Happy,'
+His cheerful greeting melted everyone’s worries.,Positive,Happy,'
+The sound of piano keys brought peaceful joy.,Positive,Happy,'
+She wore her happiness like a crown.,Positive,Happy,'
+"We watched the clouds drift by, content in silence.",Positive,Happy,'
+"The puppy cuddled into my lap, warm and soft.",Positive,Happy,'
+The compliments lifted her spirits to the sky.,Positive,Happy,'
+The recipe turned out perfect and made us all smile.,Positive,Happy,'
+The little victory felt like a giant success.,Positive,Happy,'
+The group photo captured so many smiling faces.,Positive,Happy,'
+His storytelling kept everyone entertained and laughing.,Positive,Happy,'
+The rain tapped gently while we sipped cocoa in peace.,Positive,Happy,'
+She jumped with excitement at the great news.,Positive,Happy,'
+The classroom buzzed with positive energy.,Positive,Happy,'
+He crossed the finish line with pure triumph.,Positive,Happy,'
+The crowd roared with happiness at the finale.,Positive,Happy,'
+She beamed with pride as her name was announced.,Positive,Happy,'
+The award ceremony overflowed with shared joy.,Positive,Happy,'
+The garden bloomed like her glowing face.,Positive,Happy,'
+"He chuckled softly, truly content.",Positive,Happy,'
+The ride through the countryside was deeply refreshing.,Positive,Happy,'
+The new song gave me chills of excitement.,Positive,Happy,'
+They clinked glasses and toasted to joy.,Positive,Happy,'
+We watched the waves with tranquil hearts.,Positive,Happy,'
+The smell of fresh bread made me happy instantly.,Positive,Happy,'
+The play ended with thunderous applause.,Positive,Happy,'
+He patted me on the back with proud encouragement.,Positive,Happy,'
+The moment was simple but profoundly happy.,Positive,Happy,'
+She whistled a tune full of life.,Positive,Happy,'
+"The baby giggled nonstop, and so did we.",Positive,Happy,'
+The good news spread like sunshine through the group.,Positive,Happy,'
+She clasped her hands together in thrilled anticipation.,Positive,Happy,'
+The welcome sign made me smile immediately.,Positive,Happy,'
+His birthday wish came true with dazzling surprise.,Positive,Happy,'
+The view from the hilltop was breathtakingly joyful.,Positive,Happy,'
+We lost track of time laughing together.,Positive,Happy,'
+She skipped the stones on the lake with glee.,Positive,Happy,'
+His grin stretched from ear to ear.,Positive,Happy,'
+"We sat beside the fire, warm and smiling.",Positive,Happy,'
+She embraced me with sincere delight.,Positive,Happy,'
+The aroma of fresh cookies danced through the room.,Positive,Happy,'
+He cracked a joke that made us all burst out laughing.,Positive,Happy,'
+"She cheered from the stands, eyes twinkling.",Positive,Happy,'
+The guests arrived in waves of joy.,Positive,Happy,'
+The gift bag was overflowing with thoughtful things.,Positive,Happy,'
+We took a group selfie full of beaming smiles.,Positive,Happy,'
+He opened the envelope and whooped with joy.,Positive,Happy,'
+"The blanket was soft, warm, and happiness-inducing.",Positive,Happy,'
+She told her story with a glowing face.,Positive,Happy,'
+"We drove through the countryside, singing with joy.",Positive,Happy,'
+The kids played in the park with endless energy.,Positive,Happy,'
+I sipped lemonade under the happy sun.,Positive,Happy,'
+His painting radiated vibrant joy.,Positive,Happy,'
+The news anchor smiled with cheerful delivery.,Positive,Happy,'
+She danced like the world was clapping for her.,Positive,Happy,'
+The bell rang and the students ran out joyfully.,Positive,Happy,'
+He wore his favorite jacket with pride.,Positive,Happy,'
+We laughed over old memories and new dreams.,Positive,Happy,'
+Her excitement lit up the whole hallway.,Positive,Happy,'
+I admired the blooming orchids with delight.,Positive,Happy,'
+"They sang together, their voices lifting in joy.",Positive,Happy,'
+The morning breeze brought cheerful energy.,Positive,Happy,'
+He handed me a card filled with kind words.,Positive,Happy,'
+The moment sparkled like a memory in the making.,Positive,Happy,'
+She entered the room glowing with cheerful confidence.,Positive,Happy,'
+He high-fived me with a grin that wouldn’t quit.,Positive,Happy,'
+The whole room buzzed with positive excitement.,Positive,Happy,'
+She found a letter that made her smile instantly.,Positive,Happy,'
+"We walked beneath fairy lights, giggling with delight.",Positive,Happy,'
+His enthusiasm was absolutely contagious.,Positive,Happy,'
+The laughter spilled out like sunshine through clouds.,Positive,Happy,'
+"The cake was sweet, but the smiles were sweeter.",Positive,Happy,'
+He played the guitar with joyful abandon.,Positive,Happy,'
+She applauded with both hands and her heart.,Positive,Happy,'
+The day was a string of beautiful surprises.,Positive,Happy,'
+"He waved with a bright, openhearted smile.",Positive,Happy,'
+The smell of cinnamon awakened cozy joy.,Positive,Happy,'
+She cheered like she’d won the lottery.,Positive,Happy,'
+He skipped breakfast but couldn’t skip smiling.,Positive,Happy,'
+They danced like nobody was watching—happily so.,Positive,Happy,'
+She sent a text full of sunshine and emojis.,Positive,Happy,'
+The cat purred like a warm engine of peace.,Positive,Happy,'
+The journal entry was filled with happy thoughts.,Positive,Happy,'
+The park was alive with laughter and sunshine.,Positive,Happy,'
+She welcomed me with a glowing embrace.,Positive,Happy,'
+The balloons bobbed like colorful bundles of glee.,Positive,Happy,'
+He picked wildflowers with a boyish grin.,Positive,Happy,'
+"They toasted to love, life, and light.",Positive,Happy,'
+"I strolled home, whistling without realizing.",Positive,Happy,'
+The children’s joy was louder than the music.,Positive,Happy,'
+She poured tea and joy in equal measure.,Positive,Happy,'
+The artist beamed beside her masterpiece.,Positive,Happy,'
+He found the last cookie and smiled triumphantly.,Positive,Happy,'
+The trip was full of small wonders and smiles.,Positive,Happy,'
+Her surprise visit made the day unforgettable.,Positive,Happy,'
+The dog barked with tail-wagging excitement.,Positive,Happy,'
+He read the note and laughed aloud.,Positive,Happy,'
+The evening breeze whispered calm and contentment.,Positive,Happy,'
+They sang along to the song with joy in their voices.,Positive,Happy,'
+The bouquet looked like a painting of joy.,Positive,Happy,'
+She lit a can,Positive,Happy,'
+The coffee shop buzzed with morning happiness.,Positive,Happy,'
+She finished the puzzle and raised her arms in triumph.,Positive,Happy,'
+His surprise hug made my whole day brighter.,Positive,Happy,'
+They clapped along with big grins on their faces.,Positive,Happy,'
+The swing set creaked with the rhythm of joy.,Positive,Happy,'
+He discovered his favorite snack and smiled wide.,Positive,Happy,'
+She waved excitedly from across the room.,Positive,Happy,'
+The rainbow appeared just as we finished the story.,Positive,Happy,'
+He shared the news with sparkling eyes.,Positive,Happy,'
+They popped confetti with loud cheers.,Positive,Happy,'
+The chalkboard message read “Today is a good day.”,Positive,Happy,'
+She tied her shoes with a bounce in her step.,Positive,Happy,'
+The stars seemed to celebrate with us.,Positive,Happy,'
+He poured cocoa with whipped cream and joy.,Positive,Happy,'
+The morning walk felt like a reset for the soul.,Positive,Happy,'
+The classroom walls were full of color and smiles.,Positive,Happy,'
+She gave a high-five with gleeful energy.,Positive,Happy,'
+His playlist was a symphony of cheerfulness.,Positive,Happy,'
+"They posed for a photo, all beaming together.",Positive,Happy,'
+The fountain sparkled in the midday sun.,Positive,Happy,'
+She doodled hearts around their names.,Positive,Happy,'
+The hat she wore made everyone laugh joyfully.,Positive,Happy,'
+He received the postcard and smiled for hours.,Positive,Happy,'
+The kitten chased the ribbon with wide-eyed delight.,Positive,Happy,'
+"They danced in the living room, lost in joy.",Positive,Happy,'
+The day ended with a peaceful glow.,Positive,Happy,'
+She planted the flowers and felt refreshed.,Positive,Happy,'
+The sound of clinking glasses marked the celebration.,Positive,Happy,'
+He found a note that made his heart smile.,Positive,Happy,'
+The scooter ride made her laugh nonstop.,Positive,Happy,'
+We roasted marshmallows and laughed by the fire.,Positive,Happy,'
+She twirled with her scarf in the autumn breeze.,Positive,Happy,'
+The surprise visit ended with hugs all around.,Positive,Happy,'
+"The bell rang, and they all cheered.",Positive,Happy,'
+She opened the bookshop door like it was treasure.,Positive,Happy,'
+He shared his blanket and his laughter.,Positive,Happy,'
+The parade passed with joy and wonder.,Positive,Happy,'
+Her cupcake had a hidden heart inside.,Positive,Happy,'
+The water balloons burst with squeals of joy.,Positive,Happy,'
+He discovered a happy song stuck in his head.,Positive,Happy,'
+She sent emojis that danced across the screen.,Positive,Happy,'
+We clinked mugs of cocoa under the stars.,Positive,Happy,'
+The swing lifted her spirits higher than ever.,Positive,Happy,'
+His gift was wrapped with colorful love.,Positive,Happy,'
+The chalkboard listed “Reasons to Smile.”,Positive,Happy,'
+She colored the day with crayons and delight.,Positive,Happy,'
+"They ran barefoot through the wet grass, laughing.",Positive,Happy,'
+The festival food tasted like childhood joy.,Positive,Happy,'
+He stacked the pancakes like a champion.,Positive,Happy,'
+She clapped her hands in delighted surprise.,Positive,Happy,'
+The surprise message made my whole week.,Positive,Happy,'
+We passed the time with smiles and games.,Positive,Happy,'
+She wore a flower crown and glowed.,Positive,Happy,'
+"He danced with headphones on, completely happy.",Positive,Happy,'
+The baby reached out with chubby joy.,Positive,Happy,'
+They smiled at the same moment and laughed.,Positive,Happy,'
+Her story made me laugh out loud.,Positive,Happy,'
+The ice cream truck played our happy tune.,Positive,Happy,'
+He unwrapped the gift with shining eyes.,Positive,Happy,'
+She lit the candles and made a quiet wish.,Positive,Happy,'
+The quiet morning was a perfect kind of bliss.,Positive,Happy,'
+He walked in with balloons and bright energy.,Positive,Happy,'
+We raced through the rain and shouted with joy.,Positive,Happy,'
+Her favorite song came on at the perfect time.,Positive,Happy,'
+He patted the dog and grinned.,Positive,Happy,'
+She blew bubbles into the wind and giggled.,Positive,Happy,'
+The tea party was full of cheerful chatter.,Positive,Happy,'
+They posed with funny faces and wide grins.,Positive,Happy,'
+He packed the picnic with snacks and smiles.,Positive,Happy,'
+She wore her joy like a bright scarf.,Positive,Happy,'
+The gift was tiny but full of heart.,Positive,Happy,'
+He found his old toy and smiled with nostalgia.,Positive,Happy,'
+The field glowed golden in the evening light.,Positive,Happy,'
+She laughed until tears filled her eyes.,Positive,Happy,'
+The pillow fort became a kingdom of joy.,Positive,Happy,'
+He found the lucky penny and grinned.,Positive,Happy,'
+She jumped into the pool with happy shouts.,Positive,Happy,'
+The photo frame held a perfect memory.,Positive,Happy,'
+He played hopscotch like a kid again.,Positive,Happy,'
+She organized the party with gleaming pride.,Positive,Happy,'
+The sparkler lit up her face with glee.,Positive,Happy,'
+They sang the whole car ride home.,Positive,Happy,'
+He carried the cake with careful joy.,Positive,Happy,'
+The basket overflowed with fresh-picked joy.,Positive,Happy,'
+Her lipstick matched her sunny mood.,Positive,Happy,'
+The card was handmade and full of love.,Positive,Happy,'
+They shared stories that made everyone grin.,Positive,Happy,'
+He found his journal full of happy sketches.,Positive,Happy,'
+She threw flower petals and clapped with joy.,Positive,Happy,'
+We walked through the orchard laughing together.,Positive,Happy,'
+The smell of vanilla made everything better.,Positive,Happy,'
+She named her plant “Joy.”,Positive,Happy,'
+The hike ended in cheerful exhaustion.,Positive,Happy,'
+He serenaded the group with a cheerful tune.,Positive,Happy,'
+She arranged her books and smiled.,Positive,Happy,'
+The dog wagged its tail like a metronome of joy.,Positive,Happy,'
+The craft table buzzed with creativity and giggles.,Positive,Happy,'
+They built a castle out of sand and laughter.,Positive,Happy,'
+He greeted everyone with high fives and jokes.,Positive,Happy,'
+"She whispered good news in my ear, and we giggled.",Positive,Happy,'
+We stood under the stars and just smiled.,Positive,Happy,'
+That was not good at all.                   ,Negative,Anger,High
+His attitude is not good lately.          ,Negative,Anger,Moderate
+The results were not good enough.           ,Negative,Sad,Low
+My experience with them was not good.      ,Negative,Sad,Moderate
+Things are not good between us.             ,Negative,Sad,Moderate
+That choice was definitely not good.        ,Negative,Anger,Low
+I feel nothing.,Neutral,Neutral,'
+I’m feeling not good about this.            ,Negative,Fear,High
+That decision was not good in hindsight.    ,Negative,Sad,Moderate
+The food was really good.                  ,Positive,Happy,'
+She had a good time at the event.           ,Positive,Happy,'
+Everything felt so good today.               ,Positive,Happy,'
+He did a good job on the project.            ,Positive,Happy,'
+It’s good to see things going well.        ,Positive,Happy,'
+The weather is surprisingly good.           ,Positive,Happy,'
+She gave me some good advice.              ,Positive,Happy,'
+That was a good decision.                ,Positive,Happy,'
+We had a good laugh together.             ,Positive,Happy,'
+His performance was very good.              ,Positive,Happy,'
+The food was not bad at all.                        ,Positive,Happy,'
+His performance was not bad considering the time.    ,Neutral,Neutral,'
+That movie was not bad — I kinda liked it.           ,Positive,Happy,'
+This place is not bad for a small town.              ,Neutral,Neutral,'
+The weather is not bad today.                        ,Positive,Happy,'
+Your idea is actually not bad.                    ,Positive,Happy,'
+She did not bad in the final round.                  ,Positive,Happy,'
+This phone is not bad for the price.                 ,Neutral,Neutral,'
+The exam was not bad as I expected.                 ,Positive,Happy,'
+I am feeling not bad today.,Positive,Happy,'
+That movie was not bad at all.,Neutral,Neutral,'
+"Honestly, it turned out not bad.",Positive,Happy,'
+The weather is not bad this morning.,Positive,Happy,'
+Her cooking was actually not bad.,Neutral,Neutral,'
+Things are not bad between us now.,Neutral,Neutral,'
+This idea seems not bad to me.,Neutral,Neutral,'
+Your presentation was not bad.,Positive,Happy,'
+That wasn’t bad — I liked it.,Positive,Happy,'
+He’s doing not bad lately.,Positive,Happy,'
+The trip was not bad overall.,Positive,Happy,'
+This phone is not bad for the price.,Neutral,Neutral,'
+Not bad! That’s a decent result.,Positive,Happy,'
+The meeting was long but not bad.,Neutral,Neutral,'
+She handled the situation not bad.,Neutral,Neutral,'
+Your drawing is not bad at all!,Positive,Happy,'
+Not bad at all for a first attempt.,Positive,Happy,'
+I am having a severe headache                       ,Negative,Sad,High
+My back is hurting badly                             ,Negative,Sad,High
+I feel drained and my body is aching                 ,Negative,Sad,Moderate
+I have mild body pain today                           ,Negative,Sad,Low
+There’s a constant pain in my shoulders               ,Negative,Sad,Moderate
+My head feels like it's going to explode           ,Negative,Sad,High
+I have a dull ache in my legs                         ,Negative,Sad,Low
+This headache won’t go away                       ,Negative,Sad,Moderate
+I’m experiencing intense muscle cramps                ,Negative,Sad,High
+I feel weak and everything aches                 ,Negative,Sad,High
+I have been dealing with a stiff neck all day        ,Negative,Fear,Low
+There’s a sharp pain in my chest                  ,Negative,Sad,High
+I feel sick and sore all over                         ,Negative,Sad,Moderate
+My body feels heavy and uncomfortable                ,Negative,Sad,Moderate
+I have a slight pain in my back                  ,Negative,Sad,Low
+I can't focus because of this headache            ,Negative,Sad,Moderate
+Every muscle in my body hurts                     ,Negative,Sad,High
+My arms feel sore from yesterday                     ,Negative,Sad,Low
+I’m feeling unwell with body aches               ,Negative,Sad,Moderate
+There’s a throbbing pain behind my eyes              ,Negative,Sad,High
+I’ve been dizzy and achy since morning                ,Negative,Sad,Moderate
+I feel sick and my joints are aching                  ,Negative,Sad,High
+The headache is mild but annoying                     ,Negative,Sad,Low
+My body is sore after work                            ,Negative,Sad,Low
+I’m struggling with body pain all over                ,Negative,Sad,High
+I feel uncomfortable because of this back pain        ,Negative,Sad,Moderate
+There’s tension building up in my neck and shoulders  ,Negative,Sad,Moderate
+I’m exhausted and sore from head to toe               ,Negative,Sad,High
+"I’m not sad, just indifferent.",Neutral,Neutral,'
+I don’t feel particularly emotional right now.,Neutral,Neutral,'
+"I'm not upset, just observing.",Neutral,Neutral,'
+"I’m not unhappy, just thinking.",Neutral,Neutral,'
+I’m not feeling anything in particular.,Neutral,Neutral,'
+"I’m not angry or sad, just quiet.",Neutral,Neutral,'
+I don’t really care one way or the other.,Neutral,Neutral,'
+I’m not worried about it.,Neutral,Neutral,'
+I’m not bothered at all.,Neutral,Neutral,'
+I don’t have strong feelings either way.,Neutral,Neutral,'
+"I’m not down, just neutral.",Neutral,Neutral,'
+I don’t feel anxious anymore.,Neutral,Neutral,'
+"I’m not mad or anything, just fine.",Neutral,Neutral,'
+"I’m not sulking, just lost in thought.",Neutral,Neutral,'
+"I don’t feel bad, just not excited either.",Neutral,Neutral,'
+I’m not feeling sad like before.,Neutral,Neutral,'
+"I’m not scared, just cautious.",Neutral,Neutral,'
+I’m not emotional right now.,Neutral,Neutral,'
+I don’t feel low today.,Neutral,Neutral,'
+I’m not experiencing any distress.,Neutral,Neutral,'
+"I’m still awake, doing absolutely nothing",Neutral,Neutral,'
+"I'm just existing, not feeling.",Neutral,Neutral,'
+I don't feel anything in particular.,Neutral,Neutral,'
+My emotions are off right now.,Neutral,Neutral,'
+"I'm not sad, I just feel blank.",Neutral,Neutral,'
+I’m emotionally neutral today.,Neutral,Neutral,'
+"No ups or downs, just flat.",Neutral,Neutral,'
+not sad not happy,Neutral,Neutral,'
+I’m tired but I want to keep going,Neutral,Neutral,'
+"I feel drowsy, yet I can’t seem to rest",Neutral,Neutral,'
+"I need sleep, but I’m not in the mood to lie down",Neutral,Neutral,'
+"My eyes are heavy, but my mind is wide awake",Neutral,Neutral,'
+"I should sleep now, but I don’t feel like it",Neutral,Neutral,'
+I’m exhausted but still scrolling on my phone,Neutral,Neutral,'
+"I’m lying in bed, but not ready to sleep",Neutral,Neutral,'
+"I could sleep, but I’d rather stay up and do nothing",Neutral,Neutral,'
+I’m feeling lazy but don’t want to nap,Neutral,Neutral,'
+"My body wants sleep, but my thoughts won’t let me",Neutral,Neutral,'
+I’m hungry but too lazy to get food,Neutral,Neutral,'
+I feel thirsty but don’t want to get up,Neutral,Neutral,'
+I’m bored but don’t feel like doing anything,Neutral,Neutral,'
+I’m restless but not anxious,Neutral,Neutral,'
+I want to move but I’m stuck in my seat,Neutral,Neutral,'
+I feel nothing in particular — just existing,Neutral,Neutral,'
+I’m awake for no reason,Neutral,Neutral,'
+I’m lying down but not planning to sleep,Neutral,Neutral,'
+I feel stuck between tired and alert,Neutral,Neutral,'
+"I want to close my eyes, but not fall asleep",Neutral,Neutral,'
+"I’m sitting in silence, just thinking",Neutral,Neutral,'
+"I’m not sad, not happy, just here",Neutral,Neutral,'
+"I’m zoning out, not feeling anything specific",Neutral,Neutral,'
+I’m aware I’m tired but doing nothing about it,Neutral,Neutral,'
+"I’m waiting for something to happen, but I don’t know what",Neutral,Neutral,'
+I’m not in the mood for anything right now,Neutral,Neutral,'
+I feel nothing dramatic — just meh,Neutral,Neutral,'
+I’m just passing time with no purpose,Neutral,Neutral,'
+I feel blank but not upset,Neutral,Neutral,'
+I am sick of waiting in long lines  ,Negative,Anger,Low
+Why is this app so slow all the time  ,Negative,Anger,Low
+I can’t stand how noisy my neighbors are  ,Negative,Anger,Moderate
+I’m getting really annoyed with these constant notifications  ,Negative,Anger,Moderate
+I’m fed up with these daily meetings  ,Negative,Anger,Moderate
+This broken elevator is driving me crazy  ,Negative,Anger,Moderate
+I hate how disorganized this place is  ,Negative,Anger,Moderate
+Why do people keep cutting me off in traffic  ,Negative,Anger,Moderate
+I’m tired of repeating myself over and over  ,Negative,Anger,Low
+I don’t have patience for this nonsense anymore  ,Negative,Anger,High
+I can't deal with this delay again  ,Negative,Anger,Moderate
+This internet keeps dropping every five minutes  ,Negative,Anger,Low
+I’m irritated by how messy this desk is  ,Negative,Anger,Moderate
+I’ve had enough of these constant interruptions  ,Negative,Anger,Moderate
+I can’t believe how late the bus is again  ,Negative,Anger,Moderate
+I’m frustrated with how long this takes  ,Negative,Anger,High
+I'm sick of being stuck indoors  ,Negative,Anger,Moderate
+I’m done arguing about the same thing every day  ,Negative,Anger,High
+I’m annoyed that no one listens  ,Negative,Anger,Moderate
+I can’t stand the noise in this building  ,Negative,Anger,Moderate
+Life doesn’t always go as planned and that’s okay,Neutral,Neutral,'
+Every day brings something new good or bad,Neutral,Neutral,'
+Sometimes we win sometimes we learn,Neutral,Neutral,'
+Not every day is easy but every day teaches something,Neutral,Neutral,'
+Challenges are just part of the journey,Neutral,Neutral,'
+There’s no growth without struggle,Neutral,Neutral,'
+It’s all part of the process,Neutral,Neutral,'
+Some days are tough others are peaceful that’s life,Neutral,Neutral,'
+We can’t control everything only how we respond,Neutral,Neutral,'
+Every moment good or bad passes eventually,Neutral,Neutral,'
+Life has its highs and lows,Neutral,Neutral,'
+Nothing stays the same forever,Neutral,Neutral,'
+Storms make the roots grow deeper,Neutral,Neutral,'
+Even the darkest night ends with sunrise,Neutral,Neutral,'
+Change is the only constant in life,Neutral,Neutral,'
+Each chapter has its purpose,Neutral,Neutral,'
+Ups and downs shape who we become,Neutral,Neutral,'
+Progress is not always in a straight line,Neutral,Neutral,'
+Sometimes standing still is moving forward,Neutral,Neutral,'
+We live we learn we grow,Neutral,Neutral,'
+I argued with my sister and now I feel down.,Negative,Sad,Moderate
+I had a fight with my best friend and it really hurts.,Negative,Sad,Moderate
+I'm upset because my parents scolded me.,Negative,Sad,Moderate
+"After our disagreement, I feel emotionally drained.",Negative,Sad,Moderate
+I feel low because I shouted at my mom.,Negative,Sad,Moderate
+I feel disappointed after the argument with my cousin.,Negative,Sad,Moderate
+We had a misunderstanding and now I regret it.,Negative,Sad,Moderate
+I’m sad that we stopped talking after our quarrel.,Negative,Sad,Moderate
+I wish I hadn’t raised my voice during the argument.,Negative,Sad,Moderate
+I feel guilty for fighting with someone I care about.,Negative,Sad,Moderate
+The conflict with my family left me feeling bad.,Negative,Sad,Moderate
+I’m feeling off after our tense conversation.,Negative,Sad,Moderate
+I’m disappointed in myself for how I reacted.,Negative,Sad,Moderate
+"I didn’t mean to argue, but now I feel miserable.",Negative,Sad,Moderate
+Our argument left me with a heavy heart.,Negative,Sad,Moderate
+I feel emotionally hurt after the quarrel.,Negative,Sad,Moderate
+The fight ruined my entire mood today.,Negative,Sad,Moderate
+I’m heartbroken over what happened between us.,Negative,Sad,Moderate
+I wish things hadn’t ended with a fight.,Negative,Sad,Moderate
+I’m feeling lost after our fallout.,Negative,Sad,Moderate
+I feel indifferent to everything around me.,Neutral,Neutral,'
+There’s no strong emotion in me right now.,Neutral,Neutral,'
+"I’m just existing, not feeling anything.",Neutral,Neutral,'
+I’m emotionally still.,Neutral,Neutral,'
+I’m not reacting much inside.,Neutral,Neutral,'
+I’m blank.,Neutral,Neutral,'
+I don’t feel happy or sad.,Neutral,Neutral,'
+Nothing seems to stir my emotions today.,Neutral,Neutral,'
+I’m floating through the day without emotion.,Neutral,Neutral,'
+There’s no particular feeling in me right now.,Neutral,Neutral,'
+I’m just passing time without any feeling.,Neutral,Neutral,'
+I’m detached from everything emotionally.,Neutral,Neutral,'
+"My mind feels quiet, like nothing matters.",Neutral,Neutral,'
+I’m neither up nor down—just flat.,Neutral,Neutral,'
+There’s no emotional movement in me.,Neutral,Neutral,'
+I feel like a blank slate today.,Neutral,Neutral,'
+"I’m going through the motions, not feeling anything.",Neutral,Neutral,'
+"Emotionally, I’m turned off.",Neutral,Neutral,'
+I’m in a numb state of mind.,Neutral,Neutral,'
+I can’t tell what I feel—it’s just... nothing.,Neutral,Neutral,'
+I'm not as excited about things as I used to be.,Negative,Depression,Low
+I feel a little down lately.,Negative,Depression,Low
+I just want some quiet time to myself.,Negative,Depression,Low
+"Sometimes I feel off, but I can't explain why.",Negative,Depression,Low
+I feel like I'm losing interest in things slowly.,Negative,Depression,Low
+I’ve been feeling disconnected recently.,Negative,Depression,Low
+I’m finding it harder to stay focused.,Negative,Depression,Low
+I don’t feel like talking much these days.,Negative,Depression,Low
+"I’m not sad, just not fully okay either.",Negative,Depression,Low
+I have less energy than usual.,Negative,Depression,Low
+"Lately, I feel emotionally distant.",Negative,Depression,Low
+"I feel numb sometimes, but I manage.",Negative,Depression,Low
+I'm tired but not just physically.,Negative,Depression,Low
+I've lost interest in small joys.,Negative,Depression,Low
+I don’t laugh as much as I used to.,Negative,Depression,Low
+Sometimes I want to be alone without a reason.,Negative,Depression,Low
+It’s hard to get excited about plans.,Negative,Depression,Low
+Things feel a bit dull lately.,Negative,Depression,Low
+I zone out a lot these days.,Negative,Depression,Low
+"I feel slower, emotionally and mentally.",Negative,Depression,Low
+It's getting harder to get through the day.,Negative,Depression,Moderate
+I feel stuck in my routine.,Negative,Depression,Moderate
+I don't enjoy things I used to.,Negative,Depression,Moderate
+Most days feel like a struggle.,Negative,Depression,Moderate
+I feel like I’m fading away inside.,Negative,Depression,Moderate
+"I’m here, but I don’t feel present.",Negative,Depression,Moderate
+I keep pretending I’m okay.,Negative,Depression,Moderate
+I feel like crying for no reason.,Negative,Depression,Moderate
+Motivation comes and goes without warning.,Negative,Depression,Moderate
+I’m emotionally exhausted most of the time.,Negative,Depression,Moderate
+I feel like a heavy fog surrounds me.,Negative,Depression,Moderate
+I don’t recognize myself anymore.,Negative,Depression,Moderate
+I feel emotionally unstable lately.,Negative,Depression,Moderate
+I'm constantly tired no matter how much I rest.,Negative,Depression,Moderate
+My thoughts are overwhelming.,Negative,Depression,Moderate
+I isolate myself without meaning to.,Negative,Depression,Moderate
+Even small tasks feel like mountains.,Negative,Depression,Moderate
+Nothing brings me comfort anymore.,Negative,Depression,Moderate
+I fake smiles more than I give real ones.,Negative,Depression,Moderate
+I feel like I’m watching my life from outside.,Negative,Depression,Moderate
+I feel like I’m drowning with no way out.,Negative,Depression,High
+I have lost all sense of hope.,Negative,Depression,High
+It feels like I’m disappearing.,Negative,Depression,High
+I don’t want to wake up in the morning.,Negative,Depression,High
+I feel like I’m broken beyond repair.,Negative,Depression,High
+Everything feels pointless.,Negative,Depression,High
+There’s a deep sadness I can’t escape.,Negative,Depression,High
+I feel completely alone in the world.,Negative,Depression,High
+I can't remember the last time I felt okay.,Negative,Depression,High
+Even breathing feels like a chore.,Negative,Depression,High
+I feel like I don’t matter to anyone.,Negative,Depression,High
+I'm emotionally numb and dead inside.,Negative,Depression,High
+The pain is constant and exhausting.,Negative,Depression,High
+I can't imagine things getting better.,Negative,Depression,High
+I’ve lost the will to keep fighting.,Negative,Depression,High
+I’m overwhelmed by emptiness.,Negative,Depression,High
+No one sees how much I'm struggling.,Negative,Depression,High
+I don’t see the point in anything anymore.,Negative,Depression,High
+I wish I could just disappear.,Negative,Depression,High
+My mind is a battlefield I can’t escape.,Negative,Depression,High
+Today feels like a fresh start.,Positive,Happy,'
+I’m grateful for everything I have.,Positive,Happy,'
+Life is full of beautiful surprises.,Positive,Happy,'
+I’m proud of how far I’ve come.,Positive,Happy,'
+I believe in myself completely.,Positive,Happy,'
+I feel genuinely happy today.,Positive,Happy,'
+I’m excited for what the future holds.,Positive,Happy,'
+My heart feels light and full of joy.,Positive,Happy,'
+I’m surrounded by love and support.,Positive,Happy,'
+Every day brings new opportunities.,Positive,Happy,'
+I feel confident and capable.,Positive,Happy,'
+I’m at peace with who I am.,Positive,Happy,'
+The world feels full of possibility.,Positive,Happy,'
+I radiate positivity and warmth.,Positive,Happy,'
+I’m growing stronger every day.,Positive,Happy,'
+Everything is falling into place.,Positive,Happy,'
+I choose happiness over fear.,Positive,Happy,'
+I feel energized and focused.,Positive,Happy,'
+My life is moving in the right direction.,Positive,Happy,'
+I’m enjoying the little things in life.,Positive,Happy,'
+I trust myself to handle anything.,Positive,Happy,'
+I feel deeply connected to those I love.,Positive,Happy,'
+There’s so much beauty in the world.,Positive,Happy,'
+I wake up feeling refreshed and hopeful.,Positive,Happy,'
+Joy comes easily to me now.,Positive,Happy,'
+I’m smiling for no reason at all.,Positive,Happy,'
+I feel aligned with my goals.,Positive,Happy,'
+I’m proud of my progress and growth.,Positive,Happy,'
+The day is going better than I expected.,Positive,Happy,'
+I feel a sense of calm and clarity.,Positive,Happy,'
+My mind is full of good thoughts.,Positive,Happy,'
+I’m in love with the life I’m living.,Positive,Happy,'
+There’s magic in every moment.,Positive,Happy,'
+I see the good in every situation.,Positive,Happy,'
+I’m glowing from the inside out.,Positive,Happy,'
+Today is a gift I cherish deeply.,Positive,Happy,'
+I’m laughing more and stressing less.,Positive,Happy,'
+My dreams feel within reach.,Positive,Happy,'
+I attract positive energy naturally.,Positive,Happy,'
+I’m surrounded by positivity.,Positive,Happy,'
+Each breath fills me with peace.,Positive,Happy,'
+I’m full of motivation and joy.,Positive,Happy,'
+Everything is working out for me.,Positive,Happy,'
+I’m grateful for my journey so far.,Positive,Happy,'
+I bring joy to those around me.,Positive,Happy,'
+I’m proud of the life I’m creating.,Positive,Happy,'
+Good things are happening to me.,Positive,Happy,'
+I feel genuinely fulfilled today.,Positive,Happy,'
+Happiness flows through me freely.,Positive,Happy,'
+I trust the timing of my life.,Positive,Happy,'
+I feel balanced and grounded.,Positive,Happy,'
+My inner peace is unshakable.,Positive,Happy,'
+"I celebrate all my wins, big and small.",Positive,Happy,'
+"I’m loved, worthy, and enough.",Positive,Happy,'
+I’m exactly where I’m meant to be.,Positive,Happy,'
+Smiling feels natural to me.,Positive,Happy,'
+I am thriving in every way.,Positive,Happy,'
+My life is rich with purpose and joy.,Positive,Happy,'
+Today is full of light and laughter.,Positive,Happy,'
+Get Out,Negative,Anger,High
